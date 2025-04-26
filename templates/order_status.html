@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Order Status - Centralized Food Delivery System</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f3f3f3;
+      margin: 0;
+      padding: 0;
+    }
+    header, footer {
+      background-color: #333;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    nav ul li {
+      display: inline;
+      margin: 0 15px;
+    }
+    nav ul li a {
+      color: #00bcd4;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav ul li a:hover {
+      color: lightblue;
+    }
+    .container {
+      max-width: 600px;
+      background: white;
+      margin: 40px auto;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      text-align: center;
+      color: #00bcd4;
+    }
+    label {
+      font-weight: bold;
+      display: block;
+      margin-bottom: 8px;
+    }
+    input[type="text"] {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      box-sizing: border-box;
+    }
+    button {
+      width: 100%;
+      padding: 12px;
+      background-color: #00bcd4;
+      color: white;
+      border: none;
+      font-size: 18px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0193a4;
+    }
+    .status-message {
+      margin-top: 20px;
+      font-size: 20px;
+      text-align: center;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Centralized Food Delivery System</h1>
+  <nav>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/about">About</a></li>
+      <li><a href="/register">Register</a></li>
+      <li><a href="/display">View Orders</a></li>
+      <li><a href="/order_status">Order Status</a></li>
+      <li><a href="/contact">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<div class="container">
+  <h2>Check Order Status</h2>
+  
+  <form method="post" action="/order_status">
+    <label for="orderId">Enter Order ID:</label>
+    <input type="text" id="orderId" name="orderId" required>
+    <button type="submit">Check Status</button>
+  </form>
+
+  {% if status is not none %}
+    <div class="status-message">
+      <p><strong>Order ID:</strong> {{ order_id }}</p>
+      <p><strong>Delivery Status:</strong> {{ status }}</p>
+    </div>
+  {% endif %}
+</div>
+
+<footer>
+  <p>&copy; 2024 Centralized Food Delivery System. All rights reserved.</p>
+</footer>
+
+</body>
+</html>

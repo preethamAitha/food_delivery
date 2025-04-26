@@ -1,0 +1,3001 @@
+payment_id,order_id,payment_method,amount
+1,1097,Debit Card,23.01
+2,689,Credit Card,46.38
+3,2008,Meal Plan,45.49
+4,899,Credit Card,14.22
+5,2592,Debit Card,28.46
+6,1308,PayPal,36.13
+7,2761,PayPal,16.02
+8,51,Debit Card,14.30
+9,2287,Credit Card,11.97
+10,1795,Debit Card,16.38
+11,2811,Debit Card,49.42
+12,1475,Debit Card,49.80
+13,691,PayPal,44.58
+14,1181,PayPal,46.72
+15,1509,Credit Card,36.66
+16,1723,Credit Card,18.62
+17,131,Meal Plan,21.62
+18,2039,Credit Card,32.80
+19,2482,PayPal,26.06
+20,509,PayPal,48.96
+21,2009,Credit Card,46.22
+22,709,PayPal,28.05
+23,877,Credit Card,11.58
+24,278,Credit Card,45.09
+25,2769,Meal Plan,23.62
+26,1309,Meal Plan,26.64
+27,508,Credit Card,26.70
+28,2397,PayPal,16.22
+29,2294,PayPal,28.94
+30,1422,Meal Plan,41.78
+31,2769,Credit Card,32.60
+32,1569,Credit Card,38.59
+33,2288,Credit Card,19.32
+34,2874,PayPal,10.12
+35,1773,Meal Plan,33.49
+36,1886,Credit Card,19.80
+37,1489,Debit Card,21.00
+38,1437,Debit Card,37.01
+39,1867,Credit Card,19.42
+40,2880,Debit Card,30.53
+41,1718,Credit Card,11.67
+42,1890,Credit Card,35.32
+43,540,Debit Card,37.36
+44,2682,PayPal,36.27
+45,1152,Meal Plan,49.40
+46,353,Credit Card,7.73
+47,213,Debit Card,12.73
+48,1945,Debit Card,29.29
+49,2593,Meal Plan,10.39
+50,378,Debit Card,47.58
+51,2426,Debit Card,38.03
+52,917,Credit Card,38.92
+53,687,Meal Plan,10.15
+54,1578,Credit Card,34.11
+55,1671,Credit Card,39.15
+56,1665,Credit Card,24.35
+57,6,PayPal,7.20
+58,441,Debit Card,15.93
+59,485,Meal Plan,45.28
+60,2030,Debit Card,9.21
+61,101,PayPal,37.60
+62,1720,Meal Plan,44.24
+63,2681,Meal Plan,18.42
+64,1051,Credit Card,39.03
+65,1359,Credit Card,47.14
+66,924,PayPal,20.01
+67,587,Meal Plan,30.18
+68,2546,Meal Plan,8.12
+69,519,PayPal,10.94
+70,2074,Debit Card,32.67
+71,584,Meal Plan,35.91
+72,1365,PayPal,36.51
+73,277,PayPal,34.86
+74,1320,Meal Plan,43.29
+75,2242,Debit Card,43.37
+76,2701,Meal Plan,26.46
+77,1405,Meal Plan,37.54
+78,2082,PayPal,26.68
+79,2411,PayPal,47.29
+80,920,Debit Card,5.09
+81,1013,Credit Card,32.64
+82,1348,Credit Card,11.33
+83,2132,Credit Card,36.92
+84,2951,Meal Plan,27.50
+85,2506,PayPal,22.23
+86,2144,PayPal,6.37
+87,2030,PayPal,7.82
+88,1103,PayPal,46.57
+89,970,Debit Card,48.54
+90,1869,Credit Card,46.79
+91,1588,PayPal,21.91
+92,1290,Credit Card,41.07
+93,2797,PayPal,46.64
+94,839,Credit Card,16.85
+95,578,PayPal,42.53
+96,207,Debit Card,17.65
+97,2497,Meal Plan,25.85
+98,234,PayPal,11.10
+99,323,Credit Card,14.54
+100,2984,Credit Card,46.19
+101,1172,PayPal,24.84
+102,38,Debit Card,39.12
+103,2193,PayPal,14.27
+104,765,Debit Card,28.39
+105,1545,Meal Plan,44.15
+106,1613,Debit Card,9.25
+107,256,Credit Card,39.39
+108,1314,Credit Card,20.59
+109,1785,PayPal,23.23
+110,2333,Debit Card,9.05
+111,125,Debit Card,42.34
+112,2761,PayPal,19.37
+113,2342,Debit Card,47.62
+114,589,Credit Card,38.50
+115,2973,PayPal,45.02
+116,398,PayPal,17.37
+117,2408,Meal Plan,6.63
+118,1814,Debit Card,32.95
+119,1096,Credit Card,39.65
+120,2975,Credit Card,46.92
+121,2005,Credit Card,44.91
+122,1569,Meal Plan,16.56
+123,1773,Credit Card,13.72
+124,1126,Credit Card,14.34
+125,1136,Debit Card,20.29
+126,662,Meal Plan,40.26
+127,1434,Credit Card,5.41
+128,2930,Meal Plan,16.02
+129,820,PayPal,18.50
+130,171,PayPal,6.38
+131,2491,Meal Plan,10.11
+132,2118,Debit Card,18.67
+133,1768,Debit Card,20.64
+134,66,Debit Card,31.74
+135,1276,Credit Card,20.57
+136,843,Debit Card,12.59
+137,1668,Debit Card,11.78
+138,2713,Credit Card,19.37
+139,1538,Debit Card,46.24
+140,16,Credit Card,31.38
+141,602,Credit Card,44.35
+142,1418,Credit Card,28.83
+143,2455,PayPal,25.45
+144,348,Meal Plan,48.30
+145,1961,Credit Card,13.61
+146,2577,Debit Card,28.31
+147,2406,PayPal,28.05
+148,1310,Debit Card,10.71
+149,1383,Debit Card,12.05
+150,2131,Credit Card,35.02
+151,2550,Meal Plan,25.86
+152,1815,Meal Plan,36.47
+153,2238,Debit Card,12.70
+154,1636,Meal Plan,13.66
+155,2145,PayPal,31.83
+156,1142,Debit Card,5.58
+157,2279,Meal Plan,25.08
+158,364,Meal Plan,28.96
+159,635,Credit Card,37.59
+160,1272,Meal Plan,34.55
+161,1076,Meal Plan,16.49
+162,1649,PayPal,30.45
+163,2106,Debit Card,5.77
+164,776,PayPal,17.14
+165,2257,PayPal,20.13
+166,1687,Credit Card,20.43
+167,491,Credit Card,42.46
+168,466,Debit Card,32.21
+169,859,Meal Plan,19.53
+170,589,Meal Plan,19.17
+171,1900,Debit Card,10.75
+172,2624,Credit Card,11.65
+173,1866,Meal Plan,15.35
+174,1284,Debit Card,45.79
+175,2853,Credit Card,42.52
+176,1145,Meal Plan,42.62
+177,2555,PayPal,48.84
+178,2210,Debit Card,48.62
+179,979,Debit Card,49.76
+180,1261,PayPal,20.44
+181,2015,Debit Card,15.53
+182,1128,Debit Card,49.38
+183,1303,Meal Plan,29.38
+184,1754,Debit Card,40.89
+185,772,Meal Plan,17.31
+186,1967,PayPal,5.47
+187,2530,Credit Card,16.37
+188,317,Meal Plan,12.64
+189,2307,PayPal,35.70
+190,2268,Debit Card,22.97
+191,2363,Credit Card,30.82
+192,1812,Credit Card,30.03
+193,328,Meal Plan,27.25
+194,893,Debit Card,12.63
+195,644,PayPal,28.23
+196,644,Meal Plan,37.17
+197,562,PayPal,45.56
+198,1373,Meal Plan,13.68
+199,269,Credit Card,27.79
+200,875,Meal Plan,27.20
+201,460,PayPal,38.21
+202,2504,Meal Plan,19.76
+203,587,Meal Plan,29.11
+204,2659,Meal Plan,39.93
+205,768,Meal Plan,10.97
+206,1000,Debit Card,35.86
+207,1115,PayPal,34.93
+208,2895,Debit Card,43.90
+209,160,Credit Card,19.81
+210,462,PayPal,17.83
+211,2578,PayPal,27.18
+212,2969,Debit Card,10.11
+213,1969,Debit Card,19.52
+214,2364,PayPal,20.86
+215,126,PayPal,13.01
+216,2495,Credit Card,13.04
+217,1439,Meal Plan,14.97
+218,2367,Meal Plan,37.63
+219,1400,Debit Card,41.36
+220,2361,Debit Card,23.88
+221,951,Debit Card,27.83
+222,1857,Credit Card,6.89
+223,889,Credit Card,19.59
+224,1230,Credit Card,13.31
+225,910,PayPal,10.21
+226,1639,Meal Plan,48.82
+227,1480,Credit Card,25.04
+228,2598,Credit Card,46.86
+229,2097,Meal Plan,46.15
+230,1318,Credit Card,41.03
+231,1818,PayPal,47.92
+232,348,PayPal,36.25
+233,1194,PayPal,27.15
+234,277,PayPal,18.45
+235,2892,Meal Plan,18.42
+236,757,Meal Plan,20.53
+237,127,Debit Card,14.62
+238,2669,Meal Plan,45.65
+239,2489,Credit Card,9.22
+240,2750,PayPal,28.51
+241,1887,PayPal,43.47
+242,1645,PayPal,48.21
+243,1160,PayPal,5.45
+244,1396,Credit Card,7.75
+245,367,Credit Card,38.00
+246,2467,Debit Card,43.35
+247,185,Meal Plan,14.23
+248,787,Credit Card,46.28
+249,2865,Credit Card,7.39
+250,332,Meal Plan,13.89
+251,2298,PayPal,19.00
+252,2489,PayPal,44.76
+253,1252,Meal Plan,13.85
+254,1159,Debit Card,8.06
+255,604,Meal Plan,24.74
+256,2925,Credit Card,46.68
+257,2812,Meal Plan,19.34
+258,1704,Credit Card,22.72
+259,398,Debit Card,43.43
+260,2558,Meal Plan,44.65
+261,445,Debit Card,11.36
+262,2962,Meal Plan,47.11
+263,2739,Meal Plan,18.11
+264,1280,PayPal,32.20
+265,2570,Debit Card,21.75
+266,980,Credit Card,6.56
+267,2691,Meal Plan,46.87
+268,21,Credit Card,42.90
+269,1480,Meal Plan,11.81
+270,1525,Meal Plan,36.54
+271,2726,Credit Card,45.11
+272,768,Meal Plan,27.98
+273,346,PayPal,11.65
+274,113,Credit Card,48.51
+275,1929,Debit Card,16.57
+276,667,PayPal,20.85
+277,1755,PayPal,49.08
+278,2088,Debit Card,45.27
+279,2391,PayPal,47.13
+280,1289,Debit Card,6.11
+281,2210,Debit Card,32.63
+282,655,Meal Plan,17.75
+283,1999,Debit Card,36.69
+284,2356,Debit Card,44.32
+285,2426,Debit Card,5.63
+286,2408,Meal Plan,45.73
+287,1573,Debit Card,41.17
+288,1522,Credit Card,34.13
+289,2936,Meal Plan,5.65
+290,879,Credit Card,49.88
+291,2582,Debit Card,34.51
+292,641,Debit Card,47.26
+293,1443,Debit Card,42.49
+294,2201,Meal Plan,46.20
+295,2120,Credit Card,47.81
+296,2697,Debit Card,28.30
+297,2136,PayPal,5.57
+298,2247,PayPal,29.00
+299,861,Credit Card,45.48
+300,2408,Credit Card,18.21
+301,754,Meal Plan,9.79
+302,850,PayPal,44.41
+303,1072,Meal Plan,19.96
+304,1155,Meal Plan,46.12
+305,898,PayPal,22.64
+306,2996,PayPal,44.47
+307,52,Debit Card,37.16
+308,797,Meal Plan,12.97
+309,2634,Debit Card,20.15
+310,37,PayPal,23.66
+311,1309,PayPal,5.53
+312,2926,Credit Card,25.97
+313,464,Debit Card,38.21
+314,2873,Debit Card,44.31
+315,653,Meal Plan,27.57
+316,2935,Credit Card,9.33
+317,482,Debit Card,47.88
+318,280,Credit Card,11.98
+319,1701,Meal Plan,38.76
+320,272,Meal Plan,46.42
+321,1362,PayPal,19.51
+322,712,Credit Card,45.01
+323,1410,Debit Card,18.84
+324,809,Debit Card,40.36
+325,598,Debit Card,26.55
+326,1041,PayPal,45.11
+327,1847,PayPal,38.94
+328,1178,Credit Card,14.17
+329,1736,Meal Plan,40.24
+330,1125,PayPal,8.85
+331,1376,Meal Plan,17.48
+332,1042,PayPal,30.75
+333,2561,PayPal,44.49
+334,425,Credit Card,45.72
+335,2895,Debit Card,38.89
+336,922,PayPal,46.27
+337,2386,Meal Plan,43.90
+338,1514,Meal Plan,31.42
+339,1837,PayPal,8.43
+340,373,PayPal,46.85
+341,640,Credit Card,7.55
+342,2706,Debit Card,46.72
+343,1010,Debit Card,40.01
+344,1542,Debit Card,19.35
+345,901,PayPal,38.14
+346,1054,Meal Plan,22.26
+347,1210,Meal Plan,29.64
+348,519,Credit Card,35.72
+349,790,Credit Card,34.89
+350,1290,PayPal,6.48
+351,1545,PayPal,5.32
+352,1951,Meal Plan,36.35
+353,943,PayPal,21.94
+354,1418,PayPal,34.18
+355,2280,Meal Plan,40.73
+356,2889,Meal Plan,26.46
+357,761,PayPal,43.01
+358,1770,Meal Plan,40.83
+359,1335,Debit Card,22.56
+360,1975,PayPal,47.41
+361,2106,Meal Plan,7.47
+362,1521,Meal Plan,16.08
+363,209,PayPal,26.90
+364,1148,Meal Plan,39.55
+365,936,Meal Plan,6.07
+366,472,PayPal,36.12
+367,2021,PayPal,9.53
+368,178,PayPal,27.68
+369,1016,Meal Plan,43.28
+370,1605,Credit Card,37.59
+371,708,Debit Card,28.91
+372,2062,PayPal,30.52
+373,94,Meal Plan,20.77
+374,2369,PayPal,16.44
+375,1599,Debit Card,18.90
+376,644,Debit Card,11.10
+377,1938,Debit Card,46.21
+378,167,Credit Card,32.38
+379,1109,Credit Card,11.32
+380,2452,PayPal,43.44
+381,298,Credit Card,23.63
+382,846,Debit Card,18.71
+383,1287,PayPal,49.72
+384,1143,Meal Plan,36.71
+385,255,Debit Card,38.33
+386,2924,Meal Plan,22.25
+387,2705,Debit Card,31.68
+388,1974,Debit Card,40.06
+389,2040,Debit Card,15.93
+390,356,Credit Card,22.73
+391,2116,Debit Card,16.72
+392,2788,Credit Card,21.25
+393,1430,Debit Card,22.31
+394,611,PayPal,48.65
+395,655,Debit Card,41.87
+396,170,Meal Plan,45.02
+397,2987,Meal Plan,5.36
+398,65,Debit Card,45.59
+399,1775,Meal Plan,47.22
+400,2389,PayPal,8.05
+401,2021,Debit Card,39.85
+402,2557,Meal Plan,24.74
+403,620,Meal Plan,20.03
+404,656,Credit Card,48.94
+405,2744,PayPal,23.05
+406,149,Debit Card,48.80
+407,1669,Credit Card,34.30
+408,838,PayPal,35.43
+409,2891,Credit Card,24.42
+410,960,Debit Card,39.99
+411,2406,PayPal,45.41
+412,699,Meal Plan,40.04
+413,2113,Meal Plan,20.03
+414,2068,PayPal,47.29
+415,1804,PayPal,47.72
+416,2290,Meal Plan,7.62
+417,1445,Meal Plan,28.38
+418,1546,Credit Card,37.13
+419,2273,Debit Card,35.67
+420,15,Credit Card,7.00
+421,939,PayPal,44.97
+422,196,Debit Card,49.37
+423,1958,Debit Card,21.59
+424,1415,Meal Plan,6.16
+425,2362,Credit Card,24.26
+426,1638,Debit Card,9.82
+427,1664,Debit Card,6.56
+428,2830,Debit Card,19.75
+429,1985,PayPal,32.94
+430,2958,PayPal,23.27
+431,228,Meal Plan,19.82
+432,576,Credit Card,20.75
+433,2889,PayPal,27.17
+434,264,Debit Card,35.24
+435,2985,Debit Card,18.37
+436,551,Credit Card,43.28
+437,13,Debit Card,13.41
+438,1153,Meal Plan,30.29
+439,2738,Credit Card,44.86
+440,463,Credit Card,42.33
+441,2403,PayPal,35.10
+442,136,PayPal,38.51
+443,868,PayPal,19.66
+444,871,Meal Plan,44.60
+445,783,Credit Card,34.13
+446,2442,PayPal,6.53
+447,2169,Meal Plan,39.98
+448,2975,Debit Card,33.33
+449,1088,Meal Plan,35.22
+450,2687,PayPal,22.68
+451,867,Credit Card,44.58
+452,549,Credit Card,18.25
+453,594,Credit Card,33.67
+454,252,PayPal,24.01
+455,2386,PayPal,22.88
+456,390,Meal Plan,48.97
+457,1853,Debit Card,41.26
+458,181,Meal Plan,45.33
+459,43,Debit Card,7.40
+460,593,Debit Card,42.70
+461,168,PayPal,47.99
+462,473,Credit Card,48.40
+463,294,Debit Card,26.18
+464,603,PayPal,45.77
+465,2178,Meal Plan,29.52
+466,2785,PayPal,34.05
+467,2923,Meal Plan,49.17
+468,1576,Credit Card,45.75
+469,700,Meal Plan,17.28
+470,2993,Meal Plan,6.39
+471,2668,Credit Card,42.01
+472,2665,PayPal,13.05
+473,2990,PayPal,34.69
+474,822,Credit Card,32.03
+475,1296,Debit Card,43.03
+476,1573,PayPal,17.06
+477,110,PayPal,22.52
+478,1033,Credit Card,34.05
+479,1627,PayPal,7.70
+480,2586,Credit Card,45.01
+481,1507,Credit Card,14.64
+482,2985,Meal Plan,31.64
+483,1232,Credit Card,35.83
+484,2156,Credit Card,5.07
+485,1667,Credit Card,39.02
+486,776,Credit Card,47.76
+487,1982,Credit Card,15.39
+488,1816,Meal Plan,49.42
+489,2495,PayPal,25.71
+490,1781,Meal Plan,28.02
+491,547,Meal Plan,16.97
+492,2980,Debit Card,35.24
+493,34,PayPal,23.66
+494,1176,Credit Card,22.36
+495,2731,Meal Plan,32.13
+496,1511,Credit Card,39.05
+497,115,PayPal,22.38
+498,2523,Credit Card,27.36
+499,1897,PayPal,47.38
+500,312,Meal Plan,17.52
+501,538,Credit Card,6.23
+502,1940,PayPal,17.78
+503,2154,Credit Card,24.86
+504,576,Meal Plan,31.99
+505,1456,PayPal,17.96
+506,2163,PayPal,42.37
+507,790,Meal Plan,44.22
+508,2546,Meal Plan,39.15
+509,2128,Debit Card,32.04
+510,2479,Credit Card,46.84
+511,2880,Credit Card,40.93
+512,897,Debit Card,45.51
+513,2120,PayPal,11.84
+514,1006,Meal Plan,14.35
+515,2611,Meal Plan,37.77
+516,2688,Meal Plan,40.31
+517,2931,Meal Plan,5.37
+518,33,Credit Card,6.64
+519,2759,Credit Card,25.00
+520,1823,Debit Card,14.66
+521,580,PayPal,30.61
+522,2011,Meal Plan,25.43
+523,1707,PayPal,17.16
+524,594,PayPal,24.69
+525,2633,Credit Card,11.62
+526,84,Meal Plan,22.25
+527,2010,Debit Card,27.24
+528,2264,Meal Plan,23.25
+529,1632,Debit Card,24.51
+530,1332,Meal Plan,13.44
+531,256,Credit Card,39.01
+532,411,Meal Plan,13.21
+533,421,Credit Card,6.91
+534,1240,Debit Card,35.16
+535,1284,Meal Plan,32.05
+536,584,Credit Card,8.46
+537,2452,PayPal,37.15
+538,849,PayPal,7.81
+539,912,Debit Card,15.21
+540,935,PayPal,6.44
+541,1350,PayPal,18.61
+542,2659,Debit Card,18.32
+543,417,PayPal,37.54
+544,2056,PayPal,24.40
+545,2184,Credit Card,20.18
+546,2761,PayPal,21.44
+547,2827,Debit Card,9.95
+548,170,Meal Plan,25.81
+549,1111,PayPal,43.99
+550,681,Debit Card,26.20
+551,1095,PayPal,14.00
+552,2287,Meal Plan,47.72
+553,2236,Credit Card,25.43
+554,1984,PayPal,23.62
+555,252,Debit Card,25.68
+556,535,PayPal,42.33
+557,2104,Credit Card,15.43
+558,1380,Debit Card,41.46
+559,1675,Meal Plan,19.58
+560,1095,Credit Card,15.27
+561,1698,Meal Plan,35.95
+562,1405,Debit Card,32.60
+563,1574,Credit Card,22.28
+564,574,PayPal,8.46
+565,2417,Credit Card,34.84
+566,2649,Credit Card,25.34
+567,483,Debit Card,31.25
+568,2402,Credit Card,35.23
+569,876,Meal Plan,27.35
+570,1264,PayPal,44.21
+571,2946,Credit Card,27.93
+572,1924,Debit Card,14.97
+573,315,PayPal,36.27
+574,1349,Meal Plan,36.48
+575,2013,Debit Card,22.43
+576,757,Credit Card,45.06
+577,556,Meal Plan,35.95
+578,101,Meal Plan,23.05
+579,1372,PayPal,27.30
+580,810,Debit Card,14.74
+581,2935,Credit Card,16.46
+582,1080,PayPal,40.25
+583,1329,Meal Plan,46.21
+584,1288,Debit Card,28.63
+585,322,Meal Plan,18.45
+586,313,Meal Plan,42.50
+587,2507,Meal Plan,43.02
+588,2293,PayPal,29.51
+589,2125,Credit Card,20.31
+590,1142,PayPal,29.86
+591,1142,Debit Card,30.36
+592,2894,PayPal,5.72
+593,37,Meal Plan,37.23
+594,1424,PayPal,8.70
+595,222,Debit Card,38.77
+596,469,Debit Card,25.98
+597,2065,Credit Card,45.03
+598,1904,Meal Plan,29.91
+599,720,PayPal,26.57
+600,2489,Meal Plan,13.81
+601,1633,Credit Card,25.75
+602,1430,Credit Card,47.87
+603,1000,Credit Card,39.49
+604,2554,PayPal,27.98
+605,1014,Credit Card,28.97
+606,2217,Debit Card,45.32
+607,2911,PayPal,26.30
+608,852,PayPal,9.80
+609,2802,PayPal,15.63
+610,2768,Debit Card,43.89
+611,1608,PayPal,13.39
+612,2346,Credit Card,7.82
+613,1607,Debit Card,46.78
+614,2150,Meal Plan,20.83
+615,229,Debit Card,40.28
+616,2272,PayPal,26.87
+617,1229,Debit Card,37.13
+618,2847,Credit Card,20.49
+619,1546,PayPal,25.24
+620,1534,PayPal,49.36
+621,280,Credit Card,15.82
+622,1492,Meal Plan,12.32
+623,1979,Debit Card,32.32
+624,1876,PayPal,46.31
+625,2739,Debit Card,27.53
+626,1344,Meal Plan,27.85
+627,627,Meal Plan,7.38
+628,231,Debit Card,20.52
+629,2438,Debit Card,33.80
+630,882,Credit Card,9.43
+631,2599,PayPal,21.58
+632,2184,Debit Card,11.04
+633,2413,Debit Card,39.89
+634,270,PayPal,43.25
+635,845,Credit Card,45.30
+636,2995,Meal Plan,17.69
+637,2513,Meal Plan,35.71
+638,1272,Meal Plan,49.45
+639,2709,PayPal,30.07
+640,2738,Credit Card,39.73
+641,404,Credit Card,45.95
+642,1218,Meal Plan,23.76
+643,2296,Credit Card,11.88
+644,2763,Debit Card,10.44
+645,2807,PayPal,41.85
+646,1451,Debit Card,39.77
+647,1805,PayPal,30.83
+648,2274,Debit Card,36.85
+649,2760,PayPal,39.09
+650,637,Meal Plan,17.76
+651,2781,Credit Card,42.40
+652,2017,Debit Card,7.77
+653,2833,Debit Card,42.74
+654,1184,Credit Card,43.43
+655,979,PayPal,39.80
+656,1607,Credit Card,43.35
+657,2807,Meal Plan,33.18
+658,2883,Meal Plan,9.68
+659,1062,Meal Plan,37.98
+660,2333,PayPal,25.66
+661,1045,PayPal,48.96
+662,1633,Credit Card,19.20
+663,2457,Meal Plan,25.65
+664,2385,Debit Card,35.68
+665,628,Credit Card,31.69
+666,2018,Meal Plan,7.66
+667,2930,Meal Plan,46.41
+668,249,PayPal,26.49
+669,2601,Debit Card,19.80
+670,1725,Credit Card,11.64
+671,1152,Credit Card,24.92
+672,829,Debit Card,25.76
+673,2942,Meal Plan,40.88
+674,2049,Credit Card,15.48
+675,1638,Meal Plan,44.51
+676,333,Debit Card,11.35
+677,1288,PayPal,24.16
+678,1894,PayPal,17.64
+679,889,Credit Card,21.20
+680,2646,Credit Card,37.16
+681,2076,Meal Plan,40.25
+682,42,Meal Plan,39.48
+683,2782,Credit Card,19.34
+684,2906,Debit Card,6.00
+685,2314,PayPal,40.94
+686,2674,Meal Plan,17.20
+687,2222,PayPal,44.35
+688,574,PayPal,43.72
+689,860,Meal Plan,44.34
+690,2120,Meal Plan,35.93
+691,2384,Credit Card,49.30
+692,849,PayPal,36.01
+693,1198,Meal Plan,48.12
+694,545,Debit Card,15.43
+695,1754,Credit Card,16.81
+696,1268,Credit Card,14.56
+697,2493,Meal Plan,21.85
+698,2870,Meal Plan,18.85
+699,2843,Debit Card,14.85
+700,2754,PayPal,36.22
+701,1886,Meal Plan,24.38
+702,1005,PayPal,30.58
+703,410,Debit Card,20.51
+704,2382,Debit Card,23.32
+705,2864,Meal Plan,43.42
+706,1454,PayPal,20.68
+707,1370,Debit Card,5.58
+708,1933,Credit Card,23.80
+709,1626,PayPal,47.36
+710,2556,Credit Card,9.04
+711,2742,PayPal,6.42
+712,932,Debit Card,45.14
+713,622,Credit Card,47.38
+714,2009,Meal Plan,6.90
+715,1887,Credit Card,7.71
+716,2646,PayPal,42.71
+717,2671,Meal Plan,23.78
+718,1053,PayPal,19.17
+719,1191,PayPal,5.24
+720,19,Meal Plan,46.59
+721,1017,PayPal,24.15
+722,2908,Debit Card,9.02
+723,318,Credit Card,30.79
+724,1217,Credit Card,12.28
+725,2925,Meal Plan,42.75
+726,1351,Debit Card,11.74
+727,2896,Meal Plan,29.48
+728,1594,Credit Card,7.55
+729,2519,PayPal,18.80
+730,2211,PayPal,11.39
+731,1407,PayPal,45.36
+732,805,Debit Card,48.14
+733,852,Credit Card,11.57
+734,1757,Debit Card,21.64
+735,735,PayPal,28.31
+736,291,PayPal,46.23
+737,1320,Debit Card,24.58
+738,264,PayPal,19.40
+739,521,Credit Card,24.62
+740,1102,Credit Card,39.51
+741,2452,Credit Card,41.21
+742,243,Debit Card,46.36
+743,1808,Credit Card,42.50
+744,1982,Meal Plan,23.71
+745,2364,Debit Card,44.58
+746,2659,PayPal,44.52
+747,2097,Credit Card,36.29
+748,702,PayPal,12.48
+749,858,Meal Plan,30.87
+750,2616,Credit Card,22.61
+751,586,Meal Plan,6.46
+752,2658,Debit Card,35.44
+753,811,Credit Card,42.14
+754,721,Meal Plan,23.82
+755,1783,PayPal,26.84
+756,652,PayPal,7.19
+757,1615,Debit Card,17.38
+758,1744,Meal Plan,7.69
+759,102,Debit Card,41.15
+760,1103,Debit Card,30.48
+761,1287,Credit Card,19.96
+762,1416,Meal Plan,9.84
+763,838,Credit Card,16.32
+764,837,Debit Card,14.60
+765,1761,Debit Card,41.55
+766,1090,Debit Card,28.03
+767,1383,Meal Plan,14.70
+768,933,Credit Card,36.17
+769,2045,Meal Plan,27.45
+770,864,Meal Plan,27.49
+771,2578,Credit Card,44.67
+772,151,Debit Card,9.94
+773,1801,Debit Card,46.48
+774,2501,Credit Card,23.90
+775,254,PayPal,36.80
+776,71,PayPal,40.10
+777,2951,Credit Card,11.21
+778,1236,Debit Card,11.86
+779,1095,Credit Card,39.74
+780,798,Debit Card,17.52
+781,493,Meal Plan,16.95
+782,736,Credit Card,8.33
+783,1978,Meal Plan,11.84
+784,1156,Credit Card,14.73
+785,80,Credit Card,20.72
+786,517,Meal Plan,24.69
+787,664,Meal Plan,31.14
+788,1253,Credit Card,27.66
+789,2788,Meal Plan,23.42
+790,1627,Credit Card,12.99
+791,849,Credit Card,48.13
+792,2737,PayPal,33.82
+793,768,Debit Card,37.24
+794,2916,Meal Plan,16.25
+795,2018,Credit Card,33.40
+796,1686,PayPal,34.32
+797,1688,Debit Card,20.04
+798,1147,Credit Card,42.92
+799,2900,Credit Card,42.69
+800,715,Credit Card,22.06
+801,976,Credit Card,48.12
+802,648,Credit Card,7.63
+803,2666,Debit Card,32.36
+804,784,Meal Plan,33.59
+805,2705,Meal Plan,16.52
+806,2167,PayPal,20.89
+807,1437,Meal Plan,26.42
+808,1768,Debit Card,38.35
+809,144,PayPal,13.07
+810,2985,Meal Plan,25.20
+811,2917,Debit Card,34.14
+812,1229,Meal Plan,10.33
+813,1008,Meal Plan,38.11
+814,418,Credit Card,15.86
+815,2431,PayPal,25.12
+816,813,Debit Card,35.64
+817,2643,PayPal,43.75
+818,136,Credit Card,12.23
+819,513,Meal Plan,14.14
+820,1886,Credit Card,5.70
+821,2104,Credit Card,37.20
+822,77,PayPal,34.43
+823,52,PayPal,40.41
+824,1551,Meal Plan,48.29
+825,1447,Credit Card,44.55
+826,998,Meal Plan,49.51
+827,1599,Meal Plan,49.74
+828,124,Credit Card,17.73
+829,1368,Credit Card,8.89
+830,2397,Meal Plan,26.93
+831,222,Credit Card,32.66
+832,2564,Credit Card,37.14
+833,1244,PayPal,46.16
+834,2419,Debit Card,34.80
+835,558,Debit Card,49.19
+836,1150,PayPal,17.19
+837,1804,Debit Card,36.98
+838,2926,Credit Card,14.43
+839,1445,Meal Plan,42.19
+840,2429,PayPal,13.39
+841,1622,Debit Card,30.86
+842,866,Meal Plan,40.79
+843,568,Meal Plan,35.20
+844,472,Credit Card,19.82
+845,797,Credit Card,21.37
+846,1691,Credit Card,18.85
+847,2558,PayPal,7.67
+848,907,Credit Card,26.29
+849,1760,Meal Plan,35.70
+850,2972,Debit Card,49.61
+851,104,Debit Card,36.47
+852,973,Credit Card,21.63
+853,2304,PayPal,34.54
+854,418,PayPal,17.97
+855,460,Meal Plan,41.72
+856,256,Credit Card,36.69
+857,382,Credit Card,43.37
+858,351,Credit Card,14.83
+859,1646,Meal Plan,42.72
+860,341,Credit Card,21.83
+861,1879,Credit Card,26.77
+862,7,Credit Card,40.23
+863,2475,PayPal,8.33
+864,2365,Debit Card,14.09
+865,704,PayPal,8.93
+866,1583,Credit Card,39.60
+867,2852,Credit Card,10.07
+868,50,Meal Plan,38.00
+869,1087,Credit Card,19.04
+870,1313,PayPal,10.85
+871,2557,Meal Plan,12.88
+872,2316,PayPal,15.80
+873,2299,Meal Plan,49.53
+874,1642,Credit Card,22.92
+875,892,PayPal,39.56
+876,2897,Meal Plan,48.99
+877,788,Meal Plan,6.53
+878,1238,Meal Plan,12.98
+879,888,Meal Plan,38.03
+880,1097,PayPal,12.90
+881,384,PayPal,14.77
+882,609,Meal Plan,34.26
+883,1467,Debit Card,20.93
+884,1920,Meal Plan,30.37
+885,1888,Meal Plan,33.33
+886,1772,Meal Plan,27.08
+887,163,Meal Plan,31.99
+888,1518,PayPal,29.50
+889,2696,Debit Card,38.44
+890,1479,Meal Plan,27.14
+891,1359,PayPal,27.27
+892,1387,Credit Card,32.22
+893,421,Credit Card,36.63
+894,682,Meal Plan,16.46
+895,2580,Credit Card,45.11
+896,987,PayPal,9.80
+897,2460,Credit Card,32.96
+898,2796,Credit Card,30.22
+899,2512,Debit Card,23.13
+900,1694,Meal Plan,18.44
+901,732,Credit Card,18.75
+902,2070,PayPal,11.57
+903,2465,Credit Card,6.23
+904,1866,Debit Card,29.23
+905,2138,Credit Card,26.67
+906,2050,Credit Card,7.77
+907,3000,Debit Card,31.07
+908,1457,Credit Card,40.09
+909,2355,PayPal,39.62
+910,2187,Meal Plan,47.10
+911,2023,Meal Plan,27.66
+912,276,Credit Card,49.97
+913,1502,PayPal,48.58
+914,1831,Debit Card,25.17
+915,2209,Debit Card,14.52
+916,430,Meal Plan,45.50
+917,2296,PayPal,24.15
+918,2687,Meal Plan,42.98
+919,277,PayPal,13.85
+920,1756,Debit Card,21.03
+921,329,Credit Card,19.99
+922,27,Credit Card,40.23
+923,143,Meal Plan,37.25
+924,1961,Credit Card,17.35
+925,1482,Meal Plan,43.90
+926,1039,Meal Plan,41.41
+927,461,Credit Card,23.32
+928,2954,PayPal,21.17
+929,282,Meal Plan,5.43
+930,746,PayPal,42.95
+931,1020,PayPal,14.92
+932,515,Credit Card,22.43
+933,425,Debit Card,12.29
+934,2024,Debit Card,10.33
+935,2331,Credit Card,45.63
+936,2623,PayPal,25.08
+937,1762,Meal Plan,13.77
+938,2551,PayPal,16.88
+939,1814,Credit Card,49.44
+940,781,Meal Plan,7.57
+941,2114,Debit Card,15.07
+942,405,Meal Plan,23.80
+943,1679,Credit Card,5.73
+944,233,Credit Card,18.02
+945,2483,Debit Card,36.45
+946,2364,Credit Card,10.30
+947,2882,Meal Plan,44.08
+948,927,Debit Card,49.74
+949,2835,Debit Card,45.05
+950,768,Debit Card,28.93
+951,1459,PayPal,20.83
+952,1532,PayPal,14.28
+953,23,Debit Card,37.67
+954,2618,PayPal,39.29
+955,769,Credit Card,40.68
+956,1086,Credit Card,28.17
+957,2759,PayPal,40.50
+958,1364,Meal Plan,29.87
+959,1959,Meal Plan,35.50
+960,606,Meal Plan,38.80
+961,1894,Debit Card,27.78
+962,2641,Credit Card,15.30
+963,1475,PayPal,7.86
+964,1681,Credit Card,17.71
+965,1108,Debit Card,41.76
+966,106,PayPal,16.94
+967,201,Meal Plan,22.30
+968,250,PayPal,6.78
+969,1735,PayPal,39.26
+970,1068,PayPal,25.05
+971,698,Meal Plan,29.92
+972,1556,Debit Card,22.77
+973,2135,Meal Plan,30.97
+974,2504,Debit Card,22.33
+975,2711,PayPal,42.78
+976,191,Meal Plan,46.25
+977,1433,Meal Plan,42.67
+978,387,PayPal,8.10
+979,66,Debit Card,16.51
+980,148,Credit Card,48.58
+981,2762,Meal Plan,49.35
+982,2605,Credit Card,22.73
+983,2927,Credit Card,45.28
+984,1226,Meal Plan,44.15
+985,917,PayPal,38.17
+986,2090,PayPal,37.73
+987,262,Meal Plan,27.44
+988,1857,Debit Card,11.12
+989,2668,Debit Card,26.16
+990,2571,Debit Card,16.20
+991,1244,Debit Card,36.83
+992,2086,PayPal,19.41
+993,1192,Meal Plan,16.48
+994,2996,PayPal,35.84
+995,1214,Meal Plan,14.05
+996,2941,Meal Plan,32.03
+997,903,PayPal,15.30
+998,1472,Debit Card,8.80
+999,1070,Credit Card,22.73
+1000,1755,Debit Card,29.64
+1001,1211,PayPal,32.82
+1002,2709,Debit Card,33.51
+1003,2085,PayPal,16.51
+1004,561,Debit Card,46.20
+1005,1506,Credit Card,49.95
+1006,1096,Debit Card,29.23
+1007,1745,Credit Card,19.54
+1008,1695,Debit Card,10.53
+1009,2978,Meal Plan,18.85
+1010,315,Credit Card,25.35
+1011,1238,Meal Plan,41.85
+1012,1366,Credit Card,26.25
+1013,1117,Meal Plan,19.62
+1014,702,Debit Card,15.78
+1015,919,Debit Card,6.68
+1016,760,Debit Card,40.66
+1017,173,Credit Card,36.71
+1018,872,PayPal,46.69
+1019,43,Debit Card,26.22
+1020,2963,PayPal,18.27
+1021,1537,Meal Plan,23.81
+1022,2559,Debit Card,14.88
+1023,2009,Meal Plan,33.15
+1024,2468,Meal Plan,23.10
+1025,446,Credit Card,8.20
+1026,369,Debit Card,27.02
+1027,297,Credit Card,18.86
+1028,2906,Meal Plan,31.39
+1029,1620,Debit Card,22.55
+1030,1622,Debit Card,23.27
+1031,626,Meal Plan,21.54
+1032,928,Debit Card,31.58
+1033,358,PayPal,22.16
+1034,2060,PayPal,35.09
+1035,2864,Meal Plan,16.89
+1036,2413,Debit Card,6.76
+1037,645,Meal Plan,44.45
+1038,1135,Meal Plan,12.03
+1039,1712,Credit Card,38.08
+1040,1917,Debit Card,18.88
+1041,107,Credit Card,16.40
+1042,1713,PayPal,41.37
+1043,838,PayPal,35.00
+1044,2081,Credit Card,28.83
+1045,794,Meal Plan,34.03
+1046,1602,Credit Card,19.72
+1047,2069,PayPal,11.37
+1048,2822,PayPal,23.82
+1049,2788,Debit Card,38.86
+1050,386,Meal Plan,15.44
+1051,89,Credit Card,29.32
+1052,1476,Meal Plan,9.90
+1053,34,Meal Plan,18.57
+1054,47,Meal Plan,26.14
+1055,1999,Credit Card,21.22
+1056,2259,PayPal,33.02
+1057,462,Credit Card,32.02
+1058,1339,Meal Plan,40.83
+1059,2371,Debit Card,12.84
+1060,2619,PayPal,23.84
+1061,2115,Debit Card,48.07
+1062,1506,Credit Card,37.69
+1063,1431,PayPal,22.45
+1064,1640,Debit Card,43.46
+1065,1205,PayPal,31.16
+1066,473,Credit Card,34.32
+1067,1452,Credit Card,22.92
+1068,1490,Meal Plan,46.52
+1069,746,Credit Card,31.15
+1070,1833,Credit Card,9.39
+1071,1734,Debit Card,11.29
+1072,2620,Credit Card,29.99
+1073,1878,Credit Card,17.48
+1074,1359,Debit Card,6.88
+1075,2462,Debit Card,19.63
+1076,2057,PayPal,22.49
+1077,1986,Debit Card,17.21
+1078,1809,PayPal,29.55
+1079,2360,Meal Plan,31.90
+1080,1044,PayPal,44.87
+1081,2534,Credit Card,12.59
+1082,1264,Meal Plan,29.02
+1083,2108,Debit Card,44.22
+1084,219,Meal Plan,19.61
+1085,72,Credit Card,40.89
+1086,893,Meal Plan,34.76
+1087,1932,Credit Card,48.82
+1088,722,PayPal,8.69
+1089,2265,PayPal,26.80
+1090,942,Debit Card,40.50
+1091,1842,Meal Plan,5.94
+1092,1334,Meal Plan,6.24
+1093,638,Debit Card,42.68
+1094,716,Debit Card,45.18
+1095,1836,Meal Plan,46.47
+1096,611,Credit Card,39.36
+1097,807,Credit Card,25.68
+1098,2847,Meal Plan,11.15
+1099,766,Debit Card,23.89
+1100,1114,PayPal,12.77
+1101,153,Debit Card,47.26
+1102,2274,PayPal,41.60
+1103,2178,Meal Plan,21.74
+1104,1317,Credit Card,15.04
+1105,1407,PayPal,9.34
+1106,1369,Debit Card,13.09
+1107,1448,Debit Card,7.54
+1108,852,Credit Card,6.36
+1109,2148,Debit Card,13.14
+1110,1046,Debit Card,15.70
+1111,2422,PayPal,31.26
+1112,316,Debit Card,17.22
+1113,2902,Credit Card,18.62
+1114,2814,Meal Plan,9.07
+1115,703,PayPal,32.97
+1116,2283,Meal Plan,12.60
+1117,741,Meal Plan,38.68
+1118,1012,Meal Plan,11.16
+1119,1672,Credit Card,7.52
+1120,611,PayPal,18.60
+1121,1011,Debit Card,47.17
+1122,2715,Debit Card,40.18
+1123,1970,PayPal,7.48
+1124,2487,Debit Card,38.55
+1125,2347,PayPal,28.19
+1126,558,Meal Plan,9.43
+1127,1014,Credit Card,22.09
+1128,2190,Credit Card,11.66
+1129,2971,Meal Plan,27.62
+1130,2111,Meal Plan,25.71
+1131,298,Credit Card,41.14
+1132,1906,Credit Card,48.45
+1133,202,PayPal,10.64
+1134,741,Meal Plan,30.57
+1135,281,PayPal,43.39
+1136,2610,PayPal,33.74
+1137,535,Credit Card,30.73
+1138,333,Meal Plan,49.17
+1139,2449,Debit Card,40.63
+1140,2829,Meal Plan,34.62
+1141,661,PayPal,39.31
+1142,1103,Meal Plan,25.72
+1143,327,PayPal,39.08
+1144,1246,Credit Card,49.08
+1145,1744,Debit Card,45.86
+1146,95,Credit Card,17.06
+1147,1809,Debit Card,32.40
+1148,990,Debit Card,36.67
+1149,549,PayPal,48.70
+1150,2263,Credit Card,12.58
+1151,1303,Meal Plan,36.79
+1152,1485,Credit Card,35.60
+1153,645,Credit Card,45.97
+1154,2616,Debit Card,40.34
+1155,2369,Debit Card,22.14
+1156,869,PayPal,43.86
+1157,2151,Meal Plan,40.00
+1158,679,PayPal,6.28
+1159,2558,Debit Card,48.82
+1160,935,Meal Plan,43.76
+1161,1081,Debit Card,44.35
+1162,668,Debit Card,49.41
+1163,2974,Debit Card,9.96
+1164,1593,Meal Plan,26.55
+1165,1786,Debit Card,42.84
+1166,2528,Debit Card,45.06
+1167,448,Meal Plan,33.29
+1168,128,PayPal,17.74
+1169,2769,Credit Card,8.84
+1170,1177,PayPal,11.25
+1171,1435,PayPal,12.09
+1172,703,Debit Card,23.50
+1173,2415,Debit Card,26.51
+1174,1991,Debit Card,11.11
+1175,2392,Credit Card,14.03
+1176,1728,Meal Plan,23.13
+1177,1987,Debit Card,24.87
+1178,2072,Meal Plan,9.70
+1179,1836,Debit Card,15.12
+1180,2421,Debit Card,39.36
+1181,2015,Debit Card,28.51
+1182,2559,Debit Card,18.07
+1183,1830,PayPal,7.10
+1184,1453,Debit Card,14.33
+1185,1674,Debit Card,35.49
+1186,1569,PayPal,49.24
+1187,304,Meal Plan,26.73
+1188,1151,Meal Plan,5.18
+1189,2394,Credit Card,42.27
+1190,2902,Debit Card,5.42
+1191,363,Meal Plan,27.59
+1192,1444,Credit Card,29.86
+1193,170,Meal Plan,9.21
+1194,585,PayPal,15.78
+1195,1941,Meal Plan,40.61
+1196,506,PayPal,6.72
+1197,177,PayPal,5.88
+1198,2572,Credit Card,20.32
+1199,348,Credit Card,23.56
+1200,1286,Credit Card,13.09
+1201,2620,Debit Card,24.27
+1202,2203,Meal Plan,42.15
+1203,2639,Meal Plan,22.38
+1204,2950,Debit Card,27.74
+1205,2035,Debit Card,29.07
+1206,1367,Debit Card,10.51
+1207,766,Meal Plan,26.81
+1208,2398,Debit Card,41.55
+1209,2530,Meal Plan,29.21
+1210,582,Credit Card,35.37
+1211,963,Meal Plan,26.97
+1212,1667,Meal Plan,11.71
+1213,2316,Credit Card,8.97
+1214,2151,Debit Card,47.43
+1215,2938,PayPal,23.70
+1216,12,Debit Card,7.42
+1217,1766,Credit Card,25.09
+1218,2064,Meal Plan,15.51
+1219,51,Debit Card,7.23
+1220,837,Debit Card,20.80
+1221,212,Meal Plan,10.95
+1222,2428,Debit Card,29.02
+1223,1357,PayPal,37.56
+1224,361,Debit Card,8.21
+1225,2874,Credit Card,35.59
+1226,782,Credit Card,38.96
+1227,2929,Credit Card,28.83
+1228,1065,Credit Card,14.18
+1229,2897,Credit Card,35.93
+1230,2145,Debit Card,9.65
+1231,914,Debit Card,48.42
+1232,515,Credit Card,28.45
+1233,2076,Credit Card,9.41
+1234,1317,Credit Card,36.17
+1235,484,Credit Card,15.41
+1236,1312,PayPal,31.58
+1237,1125,PayPal,17.09
+1238,1638,Credit Card,7.14
+1239,2709,Debit Card,22.02
+1240,1544,Meal Plan,11.78
+1241,832,Meal Plan,7.29
+1242,385,Meal Plan,47.70
+1243,136,Credit Card,30.22
+1244,1079,Credit Card,33.84
+1245,2834,Meal Plan,14.35
+1246,1274,Credit Card,44.34
+1247,1371,Credit Card,48.31
+1248,1208,Debit Card,19.23
+1249,2087,Debit Card,14.89
+1250,1898,Credit Card,21.58
+1251,1379,Meal Plan,13.36
+1252,973,Meal Plan,38.23
+1253,2292,PayPal,13.78
+1254,457,Credit Card,26.36
+1255,2320,PayPal,22.75
+1256,923,Credit Card,14.80
+1257,2176,Credit Card,22.49
+1258,1178,Meal Plan,48.35
+1259,215,Meal Plan,16.71
+1260,1196,Meal Plan,17.95
+1261,852,PayPal,15.33
+1262,2276,PayPal,5.93
+1263,1209,PayPal,34.73
+1264,646,Credit Card,47.41
+1265,535,PayPal,14.34
+1266,1144,Meal Plan,26.03
+1267,1698,Debit Card,16.69
+1268,205,Meal Plan,43.97
+1269,2274,Meal Plan,19.00
+1270,2893,Meal Plan,11.88
+1271,2087,Credit Card,10.41
+1272,2146,Debit Card,33.64
+1273,1625,Debit Card,20.81
+1274,297,Credit Card,47.99
+1275,2122,Meal Plan,49.65
+1276,2378,Meal Plan,41.72
+1277,2994,PayPal,36.70
+1278,412,Credit Card,49.30
+1279,2823,Meal Plan,26.74
+1280,471,Debit Card,46.09
+1281,1511,Meal Plan,42.86
+1282,52,Debit Card,18.76
+1283,2378,Debit Card,13.16
+1284,1597,PayPal,46.09
+1285,1271,PayPal,44.27
+1286,1169,Meal Plan,31.66
+1287,1329,Debit Card,45.60
+1288,378,Debit Card,32.33
+1289,2340,Meal Plan,45.79
+1290,2765,Debit Card,11.23
+1291,2733,PayPal,22.72
+1292,2027,Meal Plan,36.26
+1293,2549,Debit Card,28.39
+1294,2012,Meal Plan,42.39
+1295,620,Credit Card,24.30
+1296,2697,Credit Card,48.50
+1297,2559,PayPal,18.62
+1298,1140,PayPal,18.56
+1299,2020,Credit Card,32.42
+1300,892,Debit Card,39.85
+1301,2296,Credit Card,7.31
+1302,924,Debit Card,17.13
+1303,2492,Debit Card,24.35
+1304,1541,Debit Card,21.97
+1305,182,Meal Plan,38.45
+1306,2723,Debit Card,44.18
+1307,1901,Credit Card,23.70
+1308,1055,Credit Card,45.32
+1309,1484,Debit Card,21.30
+1310,2637,PayPal,37.18
+1311,1444,PayPal,40.95
+1312,797,Meal Plan,11.83
+1313,924,PayPal,45.77
+1314,2382,Meal Plan,17.60
+1315,2789,PayPal,5.37
+1316,1731,Credit Card,29.05
+1317,450,Debit Card,29.99
+1318,2648,Debit Card,24.14
+1319,2200,Credit Card,17.87
+1320,1851,Debit Card,39.57
+1321,2143,Credit Card,47.52
+1322,2643,Meal Plan,22.69
+1323,1492,Meal Plan,42.04
+1324,2096,PayPal,44.76
+1325,2994,PayPal,34.66
+1326,96,Meal Plan,7.50
+1327,2780,Credit Card,47.92
+1328,2023,PayPal,8.60
+1329,2146,Meal Plan,6.97
+1330,2539,PayPal,41.13
+1331,660,Credit Card,7.07
+1332,2578,Debit Card,49.07
+1333,1969,Debit Card,11.34
+1334,1054,Credit Card,45.74
+1335,1446,Credit Card,8.57
+1336,1883,Debit Card,14.19
+1337,1174,Meal Plan,24.13
+1338,1855,Credit Card,34.49
+1339,1684,Credit Card,40.41
+1340,1221,Meal Plan,9.49
+1341,1383,Credit Card,33.40
+1342,298,Meal Plan,38.76
+1343,1818,Meal Plan,35.43
+1344,2713,Debit Card,43.38
+1345,450,Debit Card,28.32
+1346,1574,Credit Card,39.72
+1347,358,PayPal,25.18
+1348,2980,PayPal,15.63
+1349,2370,Meal Plan,13.03
+1350,873,Credit Card,31.10
+1351,84,Credit Card,30.54
+1352,277,Credit Card,42.20
+1353,699,Debit Card,6.07
+1354,1008,PayPal,6.95
+1355,2459,Debit Card,33.40
+1356,846,Credit Card,11.88
+1357,1361,Meal Plan,39.33
+1358,2804,PayPal,42.98
+1359,2374,Debit Card,10.45
+1360,444,PayPal,12.93
+1361,2013,Debit Card,36.02
+1362,1935,PayPal,18.41
+1363,1288,PayPal,26.72
+1364,1193,Debit Card,35.21
+1365,609,PayPal,46.71
+1366,352,PayPal,45.30
+1367,349,Credit Card,37.99
+1368,2121,Debit Card,8.95
+1369,1416,Credit Card,28.53
+1370,2113,Meal Plan,22.38
+1371,1613,Debit Card,20.35
+1372,1218,PayPal,25.45
+1373,2988,Credit Card,18.57
+1374,1424,Meal Plan,10.11
+1375,276,PayPal,47.39
+1376,171,Meal Plan,36.22
+1377,1746,PayPal,38.69
+1378,1821,Credit Card,22.14
+1379,20,PayPal,8.38
+1380,288,PayPal,23.91
+1381,1241,Meal Plan,18.08
+1382,2462,Meal Plan,19.58
+1383,270,Credit Card,41.54
+1384,508,Debit Card,25.42
+1385,1223,PayPal,33.12
+1386,818,PayPal,30.86
+1387,1357,Debit Card,31.60
+1388,1325,Debit Card,42.08
+1389,1921,Credit Card,37.24
+1390,1168,Debit Card,6.75
+1391,1927,Meal Plan,10.41
+1392,2509,Debit Card,8.14
+1393,344,Debit Card,44.92
+1394,297,Meal Plan,30.96
+1395,284,PayPal,22.84
+1396,619,PayPal,9.14
+1397,167,Credit Card,32.53
+1398,182,Meal Plan,34.37
+1399,1729,Debit Card,48.09
+1400,905,PayPal,41.09
+1401,1476,Debit Card,40.99
+1402,608,Meal Plan,42.53
+1403,15,PayPal,35.61
+1404,1942,Meal Plan,25.03
+1405,621,PayPal,12.37
+1406,1098,Meal Plan,46.05
+1407,2098,Meal Plan,6.83
+1408,11,PayPal,47.65
+1409,1350,Meal Plan,34.59
+1410,986,Meal Plan,9.14
+1411,2137,Credit Card,16.13
+1412,1497,Meal Plan,43.35
+1413,2454,Credit Card,45.63
+1414,2669,PayPal,17.47
+1415,212,Credit Card,45.43
+1416,2396,Meal Plan,13.96
+1417,769,Debit Card,12.72
+1418,2768,PayPal,35.46
+1419,539,Debit Card,18.94
+1420,427,Credit Card,18.74
+1421,1309,Credit Card,35.23
+1422,545,Meal Plan,39.08
+1423,1954,PayPal,30.69
+1424,715,Credit Card,18.81
+1425,1951,Debit Card,46.59
+1426,1668,Credit Card,37.97
+1427,1989,Credit Card,11.33
+1428,868,Meal Plan,40.73
+1429,1519,Credit Card,28.95
+1430,1703,Credit Card,45.72
+1431,1215,Meal Plan,24.46
+1432,2599,Credit Card,41.83
+1433,976,Debit Card,26.92
+1434,1106,Meal Plan,26.92
+1435,2670,PayPal,17.25
+1436,1383,Credit Card,8.44
+1437,899,PayPal,5.60
+1438,804,PayPal,45.76
+1439,1807,Debit Card,46.09
+1440,1848,Debit Card,30.66
+1441,2334,Debit Card,18.98
+1442,2799,Debit Card,38.56
+1443,1642,Debit Card,44.50
+1444,1745,PayPal,46.86
+1445,1777,PayPal,15.78
+1446,1368,Debit Card,32.99
+1447,2303,PayPal,8.40
+1448,2568,Credit Card,48.19
+1449,804,Debit Card,30.70
+1450,2122,Meal Plan,10.72
+1451,1141,Debit Card,24.97
+1452,1026,Meal Plan,19.83
+1453,1228,Debit Card,24.46
+1454,2363,Meal Plan,40.78
+1455,1411,Credit Card,29.95
+1456,1559,Debit Card,47.77
+1457,2972,PayPal,40.86
+1458,360,PayPal,12.41
+1459,2354,Meal Plan,5.15
+1460,2905,PayPal,11.83
+1461,1954,Debit Card,13.22
+1462,899,Debit Card,18.56
+1463,163,Debit Card,19.44
+1464,2599,Credit Card,31.64
+1465,2999,PayPal,16.84
+1466,1165,Meal Plan,37.28
+1467,1419,Debit Card,41.96
+1468,842,PayPal,8.36
+1469,1823,Meal Plan,35.33
+1470,2962,PayPal,13.12
+1471,1903,Credit Card,11.40
+1472,2651,Debit Card,43.89
+1473,2376,Meal Plan,45.20
+1474,2054,Debit Card,7.74
+1475,597,Meal Plan,5.15
+1476,2481,Meal Plan,35.88
+1477,1900,Meal Plan,5.32
+1478,831,Debit Card,49.10
+1479,1606,Credit Card,19.39
+1480,2557,Credit Card,17.56
+1481,1639,PayPal,37.82
+1482,1888,Credit Card,15.12
+1483,1156,PayPal,45.71
+1484,376,Credit Card,44.23
+1485,2184,Debit Card,22.79
+1486,280,Debit Card,36.11
+1487,2772,Meal Plan,9.77
+1488,2483,Meal Plan,44.45
+1489,649,Credit Card,6.66
+1490,1690,PayPal,12.50
+1491,183,Debit Card,40.11
+1492,1413,Meal Plan,13.65
+1493,1023,PayPal,12.99
+1494,1473,Debit Card,14.39
+1495,2639,PayPal,28.60
+1496,1291,Credit Card,12.66
+1497,2478,Debit Card,41.52
+1498,1964,PayPal,27.31
+1499,1477,PayPal,11.96
+1500,2060,Debit Card,24.07
+1501,1042,Meal Plan,19.04
+1502,1358,Meal Plan,40.39
+1503,1719,PayPal,25.57
+1504,620,Meal Plan,19.47
+1505,135,PayPal,48.55
+1506,2606,Credit Card,27.87
+1507,1527,Debit Card,22.86
+1508,1318,Credit Card,18.52
+1509,562,Meal Plan,43.50
+1510,951,Meal Plan,31.21
+1511,2565,Meal Plan,49.42
+1512,2972,Meal Plan,39.77
+1513,2579,Debit Card,10.67
+1514,147,PayPal,14.03
+1515,1483,PayPal,44.41
+1516,989,PayPal,19.02
+1517,2011,Debit Card,41.85
+1518,2677,Debit Card,8.85
+1519,2407,PayPal,41.19
+1520,168,Meal Plan,30.11
+1521,1235,Meal Plan,5.33
+1522,2803,PayPal,46.30
+1523,27,Debit Card,46.74
+1524,2540,Meal Plan,24.95
+1525,2094,PayPal,21.79
+1526,955,Debit Card,22.10
+1527,610,Credit Card,22.43
+1528,1068,Meal Plan,11.60
+1529,2467,Debit Card,45.56
+1530,295,Debit Card,48.92
+1531,1593,Meal Plan,41.59
+1532,1605,Credit Card,25.10
+1533,778,Meal Plan,15.14
+1534,437,Credit Card,23.16
+1535,1887,PayPal,11.51
+1536,2494,PayPal,11.39
+1537,2705,Credit Card,17.44
+1538,2621,PayPal,31.61
+1539,477,PayPal,46.27
+1540,591,Credit Card,45.93
+1541,1375,PayPal,25.76
+1542,574,Credit Card,18.17
+1543,2435,Debit Card,36.86
+1544,656,Debit Card,33.01
+1545,1686,Credit Card,20.63
+1546,1617,Debit Card,40.55
+1547,142,Meal Plan,44.27
+1548,975,Credit Card,42.21
+1549,2227,Debit Card,16.23
+1550,1665,Meal Plan,44.53
+1551,1008,Debit Card,29.73
+1552,1845,Meal Plan,47.42
+1553,411,Debit Card,41.33
+1554,1132,Meal Plan,16.01
+1555,143,Meal Plan,20.12
+1556,2248,Debit Card,11.66
+1557,1933,Credit Card,22.03
+1558,666,Debit Card,48.25
+1559,2426,Meal Plan,19.60
+1560,1552,Debit Card,7.49
+1561,2259,PayPal,12.60
+1562,1087,Debit Card,28.19
+1563,2799,Meal Plan,8.48
+1564,315,Meal Plan,33.52
+1565,1346,Debit Card,18.32
+1566,729,Credit Card,43.23
+1567,207,Debit Card,11.57
+1568,130,Meal Plan,11.24
+1569,2698,PayPal,37.45
+1570,1649,Credit Card,39.81
+1571,2780,PayPal,15.35
+1572,2657,Debit Card,24.62
+1573,1140,Meal Plan,23.54
+1574,177,Meal Plan,48.09
+1575,1993,PayPal,34.46
+1576,1296,PayPal,24.84
+1577,2947,Meal Plan,15.87
+1578,323,PayPal,20.78
+1579,303,PayPal,30.82
+1580,22,PayPal,13.47
+1581,1273,Credit Card,27.08
+1582,2139,Meal Plan,5.57
+1583,65,PayPal,23.12
+1584,2629,Credit Card,29.35
+1585,1047,Debit Card,15.23
+1586,845,PayPal,29.81
+1587,547,Debit Card,46.87
+1588,664,Credit Card,10.26
+1589,1197,Debit Card,27.20
+1590,2968,Credit Card,28.75
+1591,1382,Meal Plan,22.93
+1592,2230,Credit Card,44.43
+1593,1029,Credit Card,23.78
+1594,229,Meal Plan,9.21
+1595,1772,Meal Plan,14.40
+1596,1676,Credit Card,14.77
+1597,2774,Credit Card,27.64
+1598,2370,Meal Plan,19.84
+1599,1145,PayPal,48.89
+1600,504,Meal Plan,35.66
+1601,1547,Credit Card,32.68
+1602,2182,PayPal,42.55
+1603,2113,Meal Plan,40.05
+1604,1660,Debit Card,22.06
+1605,1431,Debit Card,29.19
+1606,405,Credit Card,16.89
+1607,488,Meal Plan,35.85
+1608,1832,Credit Card,11.65
+1609,1586,Meal Plan,47.17
+1610,1189,Meal Plan,34.82
+1611,2010,Debit Card,33.02
+1612,2887,PayPal,20.11
+1613,1045,Debit Card,8.16
+1614,309,Credit Card,15.04
+1615,1467,PayPal,24.75
+1616,2907,Debit Card,36.16
+1617,1338,Meal Plan,12.92
+1618,1970,PayPal,33.52
+1619,38,Credit Card,39.98
+1620,1903,Credit Card,48.96
+1621,120,Credit Card,34.06
+1622,1167,Debit Card,42.83
+1623,1445,Debit Card,20.47
+1624,2795,Debit Card,9.42
+1625,1022,Meal Plan,12.82
+1626,466,Credit Card,26.87
+1627,2778,Debit Card,7.95
+1628,788,Credit Card,45.89
+1629,1285,PayPal,45.76
+1630,317,Meal Plan,39.45
+1631,1956,Debit Card,29.55
+1632,1364,Credit Card,24.34
+1633,2845,Credit Card,23.39
+1634,644,Debit Card,15.27
+1635,2917,Meal Plan,37.34
+1636,1592,PayPal,17.61
+1637,1455,Credit Card,49.14
+1638,974,Debit Card,13.00
+1639,756,Debit Card,33.76
+1640,2812,Credit Card,8.96
+1641,1645,Debit Card,33.67
+1642,632,Debit Card,40.33
+1643,2238,Meal Plan,28.79
+1644,1310,Meal Plan,28.94
+1645,1489,Credit Card,19.98
+1646,1248,Meal Plan,18.35
+1647,1964,PayPal,25.42
+1648,1818,Meal Plan,9.89
+1649,2716,Debit Card,33.90
+1650,1225,PayPal,47.42
+1651,816,Meal Plan,28.86
+1652,724,Meal Plan,32.56
+1653,2987,Debit Card,38.96
+1654,839,Meal Plan,19.18
+1655,1020,Meal Plan,44.83
+1656,2826,Debit Card,37.86
+1657,1826,PayPal,21.51
+1658,2466,Debit Card,46.61
+1659,1577,PayPal,10.38
+1660,135,PayPal,6.27
+1661,1284,Meal Plan,35.72
+1662,1282,Meal Plan,23.17
+1663,2914,Credit Card,18.94
+1664,2239,Debit Card,35.42
+1665,2002,Debit Card,17.90
+1666,2211,Credit Card,40.09
+1667,1133,Meal Plan,11.00
+1668,1330,Debit Card,45.51
+1669,880,PayPal,17.98
+1670,1329,PayPal,37.77
+1671,2396,Credit Card,24.27
+1672,1248,Debit Card,6.61
+1673,933,Credit Card,35.47
+1674,166,Credit Card,18.63
+1675,1612,Credit Card,11.30
+1676,2747,PayPal,18.96
+1677,2923,Debit Card,15.06
+1678,2670,PayPal,27.64
+1679,1350,Credit Card,42.46
+1680,253,Meal Plan,30.61
+1681,68,Meal Plan,13.58
+1682,1119,Debit Card,41.31
+1683,2279,Meal Plan,34.94
+1684,969,Debit Card,23.33
+1685,1363,Meal Plan,48.69
+1686,2504,Credit Card,9.15
+1687,2583,Meal Plan,14.54
+1688,2429,Debit Card,27.07
+1689,91,Meal Plan,33.27
+1690,285,PayPal,18.09
+1691,1490,Credit Card,22.32
+1692,513,Debit Card,40.60
+1693,649,Meal Plan,9.95
+1694,1831,PayPal,24.86
+1695,1878,PayPal,20.02
+1696,2638,Debit Card,24.37
+1697,404,PayPal,22.20
+1698,251,Debit Card,32.68
+1699,1984,Meal Plan,10.27
+1700,40,Debit Card,42.27
+1701,621,PayPal,43.44
+1702,1756,Debit Card,13.30
+1703,192,PayPal,47.25
+1704,2974,PayPal,44.87
+1705,1119,Credit Card,9.84
+1706,1059,Credit Card,19.35
+1707,1521,Debit Card,27.97
+1708,2921,Credit Card,5.84
+1709,593,Meal Plan,18.28
+1710,1221,Credit Card,37.36
+1711,881,Credit Card,35.29
+1712,2780,Meal Plan,17.64
+1713,2499,PayPal,42.91
+1714,172,Debit Card,6.50
+1715,2571,PayPal,41.51
+1716,582,Meal Plan,22.78
+1717,2575,PayPal,34.82
+1718,580,PayPal,9.42
+1719,375,Meal Plan,10.74
+1720,2980,PayPal,27.35
+1721,671,PayPal,47.32
+1722,496,Debit Card,26.48
+1723,888,Debit Card,42.99
+1724,281,Debit Card,37.39
+1725,2727,PayPal,36.78
+1726,793,Debit Card,35.52
+1727,359,PayPal,5.53
+1728,1190,PayPal,27.13
+1729,633,Meal Plan,12.40
+1730,537,Meal Plan,37.31
+1731,1382,PayPal,37.16
+1732,2251,Debit Card,7.81
+1733,211,Debit Card,32.50
+1734,2604,Debit Card,15.94
+1735,1669,Debit Card,24.00
+1736,2030,PayPal,28.63
+1737,1193,Credit Card,28.03
+1738,1620,PayPal,17.47
+1739,2569,Credit Card,37.87
+1740,2960,PayPal,5.56
+1741,2545,PayPal,13.91
+1742,670,Credit Card,18.06
+1743,933,Meal Plan,34.09
+1744,2910,PayPal,8.03
+1745,567,Meal Plan,22.98
+1746,2404,PayPal,5.88
+1747,2435,Meal Plan,12.05
+1748,2784,Credit Card,47.28
+1749,351,Debit Card,24.81
+1750,366,Credit Card,28.96
+1751,41,Credit Card,8.03
+1752,1382,PayPal,17.41
+1753,1765,Debit Card,45.69
+1754,1123,Debit Card,47.01
+1755,82,Credit Card,12.51
+1756,548,Debit Card,49.47
+1757,2812,PayPal,29.70
+1758,2495,PayPal,34.52
+1759,2680,Debit Card,9.33
+1760,2274,Credit Card,49.26
+1761,2059,PayPal,10.18
+1762,2775,Credit Card,19.83
+1763,1813,PayPal,34.38
+1764,103,Meal Plan,24.19
+1765,1424,Debit Card,32.32
+1766,466,PayPal,44.77
+1767,2335,Meal Plan,26.29
+1768,2926,Meal Plan,48.22
+1769,634,Debit Card,19.47
+1770,2288,Meal Plan,38.82
+1771,420,Credit Card,38.14
+1772,1858,Credit Card,48.02
+1773,565,Credit Card,19.36
+1774,2401,Credit Card,41.09
+1775,229,PayPal,11.59
+1776,277,PayPal,44.74
+1777,928,Debit Card,28.13
+1778,2275,Meal Plan,38.84
+1779,1052,Credit Card,11.85
+1780,1701,Debit Card,9.89
+1781,1885,PayPal,26.01
+1782,1008,Credit Card,39.18
+1783,2525,Debit Card,16.93
+1784,2918,Credit Card,48.99
+1785,846,Meal Plan,25.52
+1786,1128,Debit Card,19.41
+1787,330,Credit Card,25.75
+1788,1224,PayPal,46.25
+1789,2240,PayPal,47.66
+1790,481,Credit Card,47.28
+1791,2863,Meal Plan,18.29
+1792,1984,Meal Plan,45.76
+1793,2220,PayPal,25.92
+1794,2689,Credit Card,37.69
+1795,51,Credit Card,26.93
+1796,2221,PayPal,18.11
+1797,3000,Debit Card,10.15
+1798,859,Meal Plan,8.73
+1799,96,Credit Card,22.89
+1800,804,PayPal,29.76
+1801,1151,Credit Card,23.20
+1802,1308,Debit Card,22.30
+1803,1735,Debit Card,21.89
+1804,2299,Credit Card,7.62
+1805,941,Credit Card,49.51
+1806,1597,PayPal,34.90
+1807,1454,Credit Card,35.32
+1808,1156,PayPal,17.10
+1809,1840,Meal Plan,47.58
+1810,2644,Debit Card,22.83
+1811,1486,Meal Plan,20.17
+1812,2327,Meal Plan,49.43
+1813,1035,Meal Plan,7.75
+1814,2307,Credit Card,24.03
+1815,2091,Debit Card,17.08
+1816,2783,PayPal,43.81
+1817,1037,Credit Card,48.21
+1818,2792,Meal Plan,29.90
+1819,1496,Debit Card,7.14
+1820,2188,Credit Card,49.30
+1821,2433,Credit Card,7.95
+1822,2182,Debit Card,47.97
+1823,2175,Meal Plan,41.52
+1824,2342,Meal Plan,38.72
+1825,1609,Debit Card,18.91
+1826,2549,Meal Plan,38.34
+1827,1795,Debit Card,7.89
+1828,2536,Debit Card,20.03
+1829,2009,Meal Plan,36.39
+1830,1132,Meal Plan,43.59
+1831,1499,Credit Card,41.46
+1832,2887,Debit Card,42.27
+1833,726,Debit Card,39.38
+1834,310,Credit Card,16.24
+1835,876,Credit Card,36.55
+1836,123,Debit Card,48.25
+1837,89,Debit Card,38.12
+1838,17,Debit Card,39.21
+1839,581,Credit Card,10.41
+1840,253,Meal Plan,13.29
+1841,469,Meal Plan,13.86
+1842,2219,Credit Card,22.92
+1843,2945,Meal Plan,47.26
+1844,2666,Credit Card,32.03
+1845,1914,Debit Card,17.28
+1846,433,Meal Plan,30.92
+1847,2964,Debit Card,23.89
+1848,1936,Credit Card,34.05
+1849,523,Debit Card,47.07
+1850,1710,Credit Card,15.23
+1851,307,Meal Plan,25.45
+1852,2794,Credit Card,34.37
+1853,1536,PayPal,24.16
+1854,2,Credit Card,17.98
+1855,1978,PayPal,17.09
+1856,506,Credit Card,39.51
+1857,1782,Meal Plan,41.88
+1858,1001,Meal Plan,49.34
+1859,1451,PayPal,35.96
+1860,2903,Debit Card,30.98
+1861,1406,Debit Card,18.23
+1862,1255,PayPal,24.40
+1863,1775,Credit Card,45.74
+1864,2831,PayPal,37.72
+1865,2129,PayPal,49.64
+1866,2050,Credit Card,34.57
+1867,2715,Meal Plan,32.86
+1868,940,Debit Card,44.44
+1869,81,Meal Plan,24.38
+1870,1067,PayPal,24.28
+1871,731,Meal Plan,21.31
+1872,220,Meal Plan,44.71
+1873,2381,Debit Card,33.03
+1874,1419,Meal Plan,42.25
+1875,163,Debit Card,19.45
+1876,298,Meal Plan,18.81
+1877,1646,Debit Card,5.77
+1878,2899,Credit Card,12.93
+1879,245,Meal Plan,10.31
+1880,436,PayPal,12.64
+1881,225,Debit Card,31.85
+1882,1277,Meal Plan,33.07
+1883,1104,Debit Card,34.72
+1884,919,Debit Card,26.37
+1885,2564,Debit Card,9.94
+1886,1242,Debit Card,37.15
+1887,676,PayPal,35.51
+1888,1662,Debit Card,39.48
+1889,1124,Meal Plan,17.91
+1890,1491,Meal Plan,47.83
+1891,2598,PayPal,36.64
+1892,698,Meal Plan,38.08
+1893,1796,Debit Card,6.49
+1894,393,Credit Card,13.70
+1895,599,PayPal,27.92
+1896,2022,Meal Plan,46.50
+1897,1629,Debit Card,40.93
+1898,2003,Meal Plan,8.01
+1899,2627,PayPal,46.58
+1900,38,PayPal,37.95
+1901,1177,Debit Card,37.78
+1902,867,PayPal,40.58
+1903,1786,PayPal,37.80
+1904,1700,Credit Card,39.53
+1905,1744,Credit Card,14.02
+1906,2760,Credit Card,28.24
+1907,1328,Meal Plan,40.56
+1908,1643,Debit Card,26.77
+1909,1254,Debit Card,10.39
+1910,1631,Credit Card,7.18
+1911,1503,Credit Card,34.81
+1912,797,Credit Card,25.83
+1913,2631,Credit Card,5.05
+1914,2637,Debit Card,27.82
+1915,950,PayPal,31.60
+1916,206,Credit Card,25.00
+1917,1586,Debit Card,47.65
+1918,244,Debit Card,36.41
+1919,2824,Meal Plan,37.50
+1920,608,PayPal,7.19
+1921,1983,Credit Card,14.61
+1922,2623,Meal Plan,39.10
+1923,212,Debit Card,17.41
+1924,831,PayPal,25.50
+1925,758,Meal Plan,39.34
+1926,1787,Debit Card,45.50
+1927,2691,Debit Card,30.97
+1928,359,PayPal,46.81
+1929,1382,Credit Card,30.13
+1930,2534,Credit Card,24.60
+1931,1694,Debit Card,22.61
+1932,2145,Credit Card,22.02
+1933,1487,Debit Card,33.23
+1934,1385,PayPal,34.17
+1935,2915,Debit Card,36.13
+1936,2606,Meal Plan,20.81
+1937,1541,Credit Card,11.79
+1938,2902,Meal Plan,26.49
+1939,1116,Debit Card,46.71
+1940,401,Credit Card,39.54
+1941,355,Credit Card,42.35
+1942,635,Credit Card,11.28
+1943,2329,Meal Plan,5.44
+1944,2264,Credit Card,37.29
+1945,688,Meal Plan,30.13
+1946,202,PayPal,14.84
+1947,1349,PayPal,45.90
+1948,2798,Credit Card,44.72
+1949,113,Credit Card,36.18
+1950,2590,Credit Card,47.43
+1951,1630,Credit Card,40.62
+1952,2110,Debit Card,28.14
+1953,669,Debit Card,33.71
+1954,869,Debit Card,21.58
+1955,81,Meal Plan,31.54
+1956,1887,PayPal,39.49
+1957,2837,PayPal,5.30
+1958,2615,Debit Card,5.57
+1959,2917,PayPal,26.16
+1960,1998,PayPal,46.61
+1961,966,PayPal,46.51
+1962,1992,PayPal,26.48
+1963,853,Debit Card,45.42
+1964,445,Debit Card,31.60
+1965,2933,PayPal,25.90
+1966,677,Debit Card,22.22
+1967,726,Meal Plan,48.15
+1968,544,Credit Card,44.41
+1969,169,Credit Card,26.93
+1970,1275,PayPal,25.56
+1971,2207,Meal Plan,47.38
+1972,1190,Credit Card,43.20
+1973,1682,Meal Plan,49.64
+1974,2115,Credit Card,15.97
+1975,1601,PayPal,39.79
+1976,1090,Meal Plan,7.74
+1977,1392,PayPal,31.98
+1978,1860,Debit Card,11.15
+1979,52,Credit Card,27.47
+1980,681,Credit Card,12.87
+1981,752,PayPal,20.95
+1982,2462,Credit Card,17.21
+1983,2248,Credit Card,13.82
+1984,675,Meal Plan,28.13
+1985,436,Debit Card,17.35
+1986,293,Debit Card,5.27
+1987,2129,Debit Card,35.75
+1988,2622,Meal Plan,41.41
+1989,1805,PayPal,43.63
+1990,1839,Credit Card,37.73
+1991,2813,Meal Plan,10.30
+1992,2991,PayPal,43.68
+1993,1890,Debit Card,20.75
+1994,1022,Credit Card,25.40
+1995,103,PayPal,11.17
+1996,2043,Credit Card,28.83
+1997,1887,Debit Card,39.14
+1998,1697,Debit Card,43.28
+1999,1136,Credit Card,18.67
+2000,584,Credit Card,22.59
+2001,2086,PayPal,28.00
+2002,2108,PayPal,41.99
+2003,126,Debit Card,44.36
+2004,2172,Meal Plan,15.71
+2005,2450,Credit Card,35.10
+2006,1798,Credit Card,11.18
+2007,2806,Credit Card,20.68
+2008,338,Meal Plan,42.35
+2009,1948,Debit Card,33.54
+2010,2208,Debit Card,32.95
+2011,1859,Debit Card,27.82
+2012,1039,Credit Card,34.63
+2013,715,Credit Card,29.20
+2014,2313,Meal Plan,6.04
+2015,2067,Meal Plan,38.18
+2016,1111,Meal Plan,25.52
+2017,2982,PayPal,40.03
+2018,1184,PayPal,10.21
+2019,679,PayPal,48.56
+2020,247,PayPal,33.34
+2021,651,PayPal,18.07
+2022,1623,PayPal,41.59
+2023,2558,Debit Card,31.29
+2024,2093,Credit Card,40.65
+2025,2990,PayPal,33.43
+2026,498,Meal Plan,41.75
+2027,2949,Credit Card,47.08
+2028,1704,Credit Card,8.52
+2029,295,PayPal,27.27
+2030,1076,Meal Plan,25.30
+2031,303,Credit Card,48.70
+2032,1420,Credit Card,38.73
+2033,1686,Credit Card,16.18
+2034,112,Credit Card,21.47
+2035,94,Credit Card,6.30
+2036,2161,Credit Card,23.15
+2037,593,Meal Plan,47.60
+2038,2988,Credit Card,43.08
+2039,2705,Debit Card,39.39
+2040,66,Meal Plan,40.82
+2041,2758,PayPal,43.34
+2042,2454,PayPal,44.41
+2043,953,Meal Plan,31.88
+2044,2248,Debit Card,14.90
+2045,2531,PayPal,16.50
+2046,2743,Credit Card,11.58
+2047,483,Credit Card,16.03
+2048,1797,Debit Card,48.18
+2049,1478,Meal Plan,39.19
+2050,295,Credit Card,19.82
+2051,600,Debit Card,19.52
+2052,2057,Debit Card,39.65
+2053,413,Meal Plan,41.77
+2054,1911,Meal Plan,44.28
+2055,1946,PayPal,23.33
+2056,479,Credit Card,40.77
+2057,231,PayPal,17.81
+2058,1223,Meal Plan,17.81
+2059,100,PayPal,11.70
+2060,1429,Meal Plan,28.46
+2061,1330,Debit Card,13.19
+2062,627,Credit Card,29.60
+2063,2193,PayPal,49.59
+2064,2084,Meal Plan,49.98
+2065,413,Debit Card,23.75
+2066,1357,Credit Card,37.66
+2067,2871,Debit Card,47.40
+2068,961,Debit Card,30.98
+2069,2004,Debit Card,49.48
+2070,2018,Meal Plan,19.15
+2071,184,Credit Card,15.23
+2072,2388,Meal Plan,31.16
+2073,1185,PayPal,25.29
+2074,68,PayPal,47.87
+2075,2449,Debit Card,24.57
+2076,1541,Credit Card,31.83
+2077,874,Credit Card,22.83
+2078,949,Credit Card,47.09
+2079,2812,PayPal,9.43
+2080,1661,Meal Plan,47.12
+2081,2220,PayPal,28.70
+2082,2190,PayPal,49.85
+2083,1504,Meal Plan,37.55
+2084,383,Debit Card,9.09
+2085,855,Debit Card,31.15
+2086,1460,Debit Card,33.74
+2087,150,PayPal,21.30
+2088,1038,Meal Plan,7.22
+2089,2818,PayPal,45.85
+2090,2287,Credit Card,21.22
+2091,2179,Debit Card,23.23
+2092,7,Credit Card,41.71
+2093,1305,Debit Card,22.76
+2094,91,PayPal,5.98
+2095,2896,Meal Plan,44.13
+2096,888,Credit Card,40.77
+2097,2739,PayPal,35.18
+2098,2724,PayPal,30.48
+2099,213,Credit Card,42.20
+2100,1501,Meal Plan,29.16
+2101,2512,Debit Card,20.87
+2102,62,Credit Card,29.90
+2103,2203,Debit Card,42.68
+2104,768,Debit Card,44.39
+2105,2855,Credit Card,43.46
+2106,1550,PayPal,34.41
+2107,1253,Debit Card,9.54
+2108,2716,Meal Plan,12.70
+2109,2033,Meal Plan,41.72
+2110,2421,PayPal,28.33
+2111,689,Credit Card,13.35
+2112,2836,Credit Card,31.82
+2113,1203,PayPal,18.46
+2114,1501,Credit Card,36.38
+2115,2467,Debit Card,48.33
+2116,1823,Credit Card,22.60
+2117,1578,Credit Card,35.31
+2118,551,PayPal,7.71
+2119,1112,Debit Card,34.03
+2120,883,Credit Card,38.85
+2121,2554,Debit Card,39.38
+2122,1431,Debit Card,13.71
+2123,1830,Meal Plan,35.73
+2124,1727,PayPal,33.27
+2125,1268,Meal Plan,6.31
+2126,808,PayPal,46.58
+2127,993,Debit Card,24.97
+2128,1028,Credit Card,41.26
+2129,1683,Debit Card,24.71
+2130,488,Meal Plan,38.47
+2131,104,PayPal,20.96
+2132,2669,Credit Card,8.82
+2133,113,Debit Card,21.89
+2134,1964,Debit Card,11.62
+2135,2935,PayPal,37.76
+2136,1347,Meal Plan,47.09
+2137,625,Debit Card,17.54
+2138,1707,Meal Plan,7.73
+2139,254,PayPal,5.07
+2140,2220,Credit Card,31.46
+2141,1423,Debit Card,13.84
+2142,2660,Debit Card,29.57
+2143,1918,Meal Plan,22.83
+2144,729,Credit Card,14.13
+2145,2220,Credit Card,17.37
+2146,1208,Credit Card,46.72
+2147,2395,Debit Card,6.56
+2148,2488,Debit Card,6.79
+2149,554,PayPal,23.05
+2150,2675,Meal Plan,10.45
+2151,2438,Meal Plan,48.47
+2152,901,Meal Plan,45.59
+2153,461,PayPal,38.08
+2154,2839,PayPal,25.80
+2155,2340,Credit Card,34.59
+2156,2725,Debit Card,20.40
+2157,1826,Debit Card,12.27
+2158,1844,Debit Card,10.42
+2159,2676,PayPal,26.12
+2160,93,Credit Card,40.13
+2161,281,Meal Plan,17.33
+2162,1837,PayPal,6.88
+2163,951,Debit Card,24.44
+2164,619,Credit Card,8.63
+2165,1546,PayPal,7.65
+2166,1897,PayPal,11.14
+2167,1216,PayPal,28.25
+2168,795,Credit Card,7.97
+2169,779,Credit Card,5.41
+2170,1946,Debit Card,49.75
+2171,2311,Debit Card,37.00
+2172,2270,Debit Card,25.74
+2173,1901,Meal Plan,24.78
+2174,2965,PayPal,35.45
+2175,2880,Meal Plan,41.54
+2176,2047,PayPal,32.70
+2177,2225,Credit Card,46.91
+2178,697,PayPal,9.09
+2179,2527,PayPal,13.49
+2180,2242,Meal Plan,6.50
+2181,527,PayPal,5.25
+2182,533,Credit Card,13.25
+2183,2067,PayPal,33.02
+2184,1852,Debit Card,6.27
+2185,2721,Debit Card,36.70
+2186,1023,Credit Card,29.00
+2187,2652,Debit Card,39.22
+2188,1617,Credit Card,15.62
+2189,2689,Meal Plan,37.10
+2190,1628,Debit Card,44.21
+2191,2071,PayPal,39.86
+2192,848,Credit Card,7.37
+2193,2303,Meal Plan,25.20
+2194,2868,Debit Card,6.98
+2195,2416,Meal Plan,19.22
+2196,244,Meal Plan,34.57
+2197,2815,Meal Plan,7.20
+2198,2525,Credit Card,47.74
+2199,476,Debit Card,19.71
+2200,2315,Debit Card,49.52
+2201,78,Credit Card,11.56
+2202,1963,Credit Card,23.82
+2203,2566,Meal Plan,26.96
+2204,1262,Debit Card,9.91
+2205,1074,Credit Card,16.02
+2206,1322,Credit Card,7.84
+2207,917,Credit Card,22.43
+2208,2388,PayPal,20.99
+2209,2910,PayPal,26.38
+2210,2827,Meal Plan,45.46
+2211,1781,Meal Plan,20.73
+2212,2957,PayPal,47.38
+2213,859,Credit Card,19.65
+2214,164,PayPal,16.84
+2215,2660,Meal Plan,26.06
+2216,1954,Meal Plan,24.61
+2217,2854,Meal Plan,7.38
+2218,2410,Credit Card,8.16
+2219,187,Meal Plan,40.12
+2220,2761,Meal Plan,37.85
+2221,2013,PayPal,25.19
+2222,2041,Debit Card,15.76
+2223,2498,Meal Plan,34.09
+2224,1623,Meal Plan,45.91
+2225,1750,PayPal,27.88
+2226,368,PayPal,26.19
+2227,1714,PayPal,8.54
+2228,1811,Debit Card,25.74
+2229,53,PayPal,42.93
+2230,2372,Credit Card,12.50
+2231,1377,Meal Plan,30.69
+2232,2341,Credit Card,27.14
+2233,1397,Meal Plan,40.58
+2234,2833,Meal Plan,22.40
+2235,710,PayPal,37.95
+2236,2859,Credit Card,30.11
+2237,47,PayPal,26.46
+2238,433,Debit Card,30.84
+2239,1778,PayPal,21.85
+2240,2522,Credit Card,16.52
+2241,1917,Debit Card,32.57
+2242,1549,Credit Card,32.18
+2243,1673,Credit Card,19.06
+2244,70,PayPal,28.67
+2245,2605,PayPal,20.70
+2246,1877,PayPal,35.08
+2247,965,Meal Plan,46.55
+2248,1928,PayPal,7.95
+2249,2157,Debit Card,27.44
+2250,639,Debit Card,22.48
+2251,665,PayPal,31.76
+2252,2543,PayPal,30.32
+2253,962,PayPal,9.05
+2254,1060,PayPal,43.36
+2255,2809,PayPal,21.23
+2256,2666,Debit Card,12.82
+2257,1232,Credit Card,6.61
+2258,664,Credit Card,29.16
+2259,438,Debit Card,26.03
+2260,2670,Debit Card,35.32
+2261,2519,Debit Card,43.42
+2262,978,PayPal,38.50
+2263,2069,Debit Card,42.95
+2264,1204,Credit Card,21.63
+2265,2066,Credit Card,6.63
+2266,2015,Debit Card,11.59
+2267,2100,PayPal,14.67
+2268,2515,Meal Plan,24.37
+2269,2963,PayPal,45.73
+2270,1157,Credit Card,36.33
+2271,1427,Meal Plan,21.38
+2272,532,Meal Plan,33.21
+2273,652,Credit Card,34.38
+2274,2735,Meal Plan,31.19
+2275,2395,PayPal,49.54
+2276,2530,Credit Card,26.02
+2277,2140,Meal Plan,42.01
+2278,1967,Credit Card,10.46
+2279,2705,Debit Card,23.34
+2280,2092,Meal Plan,41.64
+2281,855,PayPal,49.44
+2282,713,PayPal,7.42
+2283,2784,Meal Plan,35.74
+2284,512,Credit Card,13.53
+2285,138,PayPal,39.67
+2286,316,Debit Card,21.37
+2287,1503,Debit Card,9.06
+2288,267,Credit Card,31.67
+2289,224,Credit Card,18.51
+2290,257,PayPal,49.44
+2291,1694,Debit Card,39.00
+2292,1349,PayPal,42.65
+2293,2844,Meal Plan,15.50
+2294,1769,Debit Card,41.62
+2295,2887,Debit Card,26.47
+2296,1793,PayPal,17.61
+2297,2328,Credit Card,14.14
+2298,2863,Meal Plan,42.91
+2299,2710,Credit Card,33.62
+2300,2663,PayPal,16.63
+2301,830,Debit Card,21.03
+2302,2495,Meal Plan,39.83
+2303,2568,Meal Plan,36.62
+2304,2978,PayPal,37.53
+2305,789,Credit Card,20.39
+2306,2665,Credit Card,29.63
+2307,182,Debit Card,28.38
+2308,2670,Debit Card,23.83
+2309,1777,PayPal,35.00
+2310,2742,Credit Card,14.87
+2311,2692,Meal Plan,33.19
+2312,1398,Credit Card,5.71
+2313,1076,Credit Card,46.45
+2314,2685,Meal Plan,23.62
+2315,2465,Debit Card,18.71
+2316,1359,PayPal,19.89
+2317,1922,Meal Plan,29.91
+2318,983,Debit Card,28.65
+2319,1287,Meal Plan,24.95
+2320,363,PayPal,29.87
+2321,1153,PayPal,42.65
+2322,291,PayPal,17.22
+2323,2553,PayPal,49.97
+2324,1588,PayPal,48.22
+2325,1057,Meal Plan,18.81
+2326,1260,PayPal,17.86
+2327,171,PayPal,5.05
+2328,176,PayPal,28.37
+2329,752,Meal Plan,46.62
+2330,2354,Debit Card,30.36
+2331,1342,PayPal,48.25
+2332,256,Debit Card,17.96
+2333,543,Meal Plan,5.66
+2334,2036,Meal Plan,24.09
+2335,533,Credit Card,34.26
+2336,1042,Credit Card,29.34
+2337,601,Debit Card,28.87
+2338,1239,Meal Plan,48.16
+2339,325,Meal Plan,9.97
+2340,253,Meal Plan,47.83
+2341,1207,PayPal,37.59
+2342,2635,Debit Card,7.66
+2343,7,Credit Card,37.90
+2344,1959,Credit Card,27.49
+2345,1637,Meal Plan,34.20
+2346,1817,Credit Card,36.72
+2347,875,Credit Card,40.24
+2348,2107,Credit Card,47.14
+2349,239,PayPal,9.68
+2350,23,Credit Card,15.51
+2351,1835,Credit Card,27.76
+2352,2982,Debit Card,40.79
+2353,2486,PayPal,29.18
+2354,176,PayPal,46.50
+2355,1987,PayPal,40.11
+2356,2901,Credit Card,37.17
+2357,1860,Credit Card,43.20
+2358,78,Credit Card,46.83
+2359,1964,Meal Plan,7.22
+2360,2421,Credit Card,12.34
+2361,742,Debit Card,16.45
+2362,951,PayPal,33.46
+2363,1261,Credit Card,34.99
+2364,1256,Debit Card,40.21
+2365,2203,Credit Card,30.90
+2366,1871,PayPal,32.71
+2367,72,PayPal,43.21
+2368,487,PayPal,27.78
+2369,688,Credit Card,44.56
+2370,943,Credit Card,43.81
+2371,373,Credit Card,28.76
+2372,656,Meal Plan,23.27
+2373,1280,Meal Plan,40.84
+2374,1115,Debit Card,11.62
+2375,1369,Credit Card,14.33
+2376,1597,Meal Plan,13.63
+2377,907,PayPal,21.44
+2378,1466,Credit Card,15.45
+2379,1590,Debit Card,44.89
+2380,1506,PayPal,10.11
+2381,1953,Credit Card,6.99
+2382,1750,Meal Plan,47.04
+2383,2177,Debit Card,17.68
+2384,2317,Debit Card,40.07
+2385,2464,Debit Card,49.81
+2386,2461,Meal Plan,20.61
+2387,38,Credit Card,13.33
+2388,756,PayPal,42.88
+2389,1978,Credit Card,47.64
+2390,676,Debit Card,21.01
+2391,2943,Credit Card,33.15
+2392,1906,Debit Card,34.99
+2393,491,PayPal,49.86
+2394,2512,PayPal,30.65
+2395,2397,Debit Card,29.69
+2396,2979,Credit Card,47.15
+2397,583,PayPal,20.99
+2398,573,Debit Card,46.40
+2399,603,PayPal,46.64
+2400,308,Credit Card,26.07
+2401,749,PayPal,41.09
+2402,797,Meal Plan,38.12
+2403,1055,PayPal,41.35
+2404,905,Debit Card,8.07
+2405,928,PayPal,33.18
+2406,1158,PayPal,38.13
+2407,1298,PayPal,23.88
+2408,1409,Debit Card,44.52
+2409,1097,PayPal,22.57
+2410,258,Credit Card,49.13
+2411,1112,Credit Card,39.04
+2412,2428,PayPal,44.08
+2413,1382,Meal Plan,26.55
+2414,1019,Debit Card,34.38
+2415,1127,Credit Card,46.76
+2416,1934,Debit Card,5.50
+2417,2066,Credit Card,34.90
+2418,893,Meal Plan,42.94
+2419,733,Meal Plan,18.75
+2420,1179,Debit Card,11.10
+2421,317,PayPal,15.22
+2422,2807,PayPal,39.45
+2423,2782,PayPal,5.55
+2424,700,Credit Card,26.92
+2425,311,Meal Plan,15.78
+2426,2968,Debit Card,34.30
+2427,2910,Meal Plan,32.92
+2428,1787,Debit Card,12.73
+2429,1648,Debit Card,30.34
+2430,2657,Meal Plan,47.66
+2431,1907,PayPal,8.21
+2432,2384,PayPal,43.51
+2433,2091,Debit Card,10.04
+2434,2390,Credit Card,20.39
+2435,886,Meal Plan,28.22
+2436,2390,PayPal,31.15
+2437,1703,Meal Plan,28.31
+2438,992,Credit Card,18.35
+2439,2187,Credit Card,30.87
+2440,2029,PayPal,22.26
+2441,2935,PayPal,12.03
+2442,2081,Meal Plan,26.64
+2443,258,Debit Card,30.95
+2444,2475,PayPal,26.54
+2445,2787,Credit Card,18.15
+2446,1768,Credit Card,11.91
+2447,2299,PayPal,43.12
+2448,768,Debit Card,24.48
+2449,2215,Meal Plan,5.72
+2450,2406,Debit Card,40.32
+2451,1450,Debit Card,22.36
+2452,1441,Meal Plan,12.29
+2453,400,Debit Card,47.30
+2454,111,Credit Card,36.79
+2455,712,Meal Plan,12.08
+2456,2742,PayPal,29.82
+2457,2571,Credit Card,12.95
+2458,1206,Credit Card,43.35
+2459,502,Credit Card,10.30
+2460,1805,PayPal,33.66
+2461,1854,Debit Card,48.03
+2462,1563,Debit Card,16.06
+2463,2394,Meal Plan,12.87
+2464,1505,Credit Card,37.78
+2465,1983,Credit Card,9.03
+2466,97,Credit Card,44.58
+2467,1939,Meal Plan,23.13
+2468,779,Meal Plan,27.79
+2469,2896,Debit Card,35.90
+2470,1584,Credit Card,48.14
+2471,1085,Meal Plan,32.71
+2472,2058,PayPal,10.39
+2473,582,PayPal,5.76
+2474,749,Meal Plan,49.74
+2475,1603,Credit Card,24.47
+2476,269,Credit Card,18.17
+2477,1716,PayPal,43.00
+2478,2451,Debit Card,7.26
+2479,1816,Credit Card,42.08
+2480,1062,Meal Plan,6.51
+2481,1987,Debit Card,30.79
+2482,2800,Meal Plan,32.56
+2483,2806,Credit Card,48.98
+2484,1446,Meal Plan,48.45
+2485,1026,Debit Card,29.90
+2486,2081,Meal Plan,27.89
+2487,1310,Credit Card,33.58
+2488,2604,PayPal,9.49
+2489,372,Debit Card,11.37
+2490,615,Credit Card,35.25
+2491,734,Meal Plan,45.40
+2492,1443,Credit Card,36.30
+2493,1913,Debit Card,20.85
+2494,510,Credit Card,8.99
+2495,1771,Debit Card,36.10
+2496,2988,Meal Plan,48.88
+2497,2473,Debit Card,33.29
+2498,2096,PayPal,18.47
+2499,2495,PayPal,27.88
+2500,1812,PayPal,29.48
+2501,598,Meal Plan,30.59
+2502,1499,Debit Card,10.10
+2503,94,Credit Card,12.39
+2504,625,Credit Card,31.60
+2505,1394,Credit Card,29.70
+2506,1789,PayPal,22.69
+2507,2168,Meal Plan,32.55
+2508,648,PayPal,12.70
+2509,2722,Credit Card,20.12
+2510,1427,Meal Plan,12.92
+2511,2304,Meal Plan,13.06
+2512,1401,PayPal,43.03
+2513,1707,Meal Plan,26.84
+2514,2481,Credit Card,18.90
+2515,1441,PayPal,7.63
+2516,337,Debit Card,17.10
+2517,2185,PayPal,32.51
+2518,1132,Meal Plan,47.07
+2519,1493,Credit Card,37.97
+2520,328,Meal Plan,8.53
+2521,2352,Credit Card,24.31
+2522,1723,PayPal,5.24
+2523,1040,PayPal,13.37
+2524,626,Debit Card,18.54
+2525,245,Credit Card,34.82
+2526,2203,Credit Card,39.02
+2527,2824,Debit Card,14.16
+2528,1857,Meal Plan,27.82
+2529,1833,PayPal,49.44
+2530,2441,Credit Card,14.50
+2531,238,Debit Card,28.30
+2532,1206,Meal Plan,9.05
+2533,1304,Credit Card,37.03
+2534,1211,Debit Card,28.42
+2535,1762,Credit Card,12.19
+2536,257,Debit Card,33.37
+2537,2024,PayPal,31.19
+2538,2243,PayPal,43.95
+2539,2202,Meal Plan,20.56
+2540,517,Debit Card,31.19
+2541,679,Debit Card,28.34
+2542,69,Meal Plan,26.63
+2543,270,Debit Card,6.57
+2544,2263,Credit Card,5.36
+2545,2969,Meal Plan,49.09
+2546,380,Credit Card,23.36
+2547,2863,PayPal,8.27
+2548,2858,Meal Plan,41.62
+2549,2628,PayPal,45.88
+2550,2206,Meal Plan,40.08
+2551,106,Meal Plan,14.80
+2552,2005,Credit Card,24.52
+2553,2324,Debit Card,7.49
+2554,1385,PayPal,42.26
+2555,1012,PayPal,27.92
+2556,192,Meal Plan,37.95
+2557,2546,Debit Card,28.14
+2558,2424,PayPal,15.56
+2559,1750,Meal Plan,5.20
+2560,2672,Meal Plan,36.78
+2561,2608,PayPal,12.61
+2562,122,Meal Plan,14.41
+2563,2163,Debit Card,48.71
+2564,331,Credit Card,47.18
+2565,1101,PayPal,25.47
+2566,690,Credit Card,48.77
+2567,608,Credit Card,32.46
+2568,2963,Meal Plan,49.22
+2569,598,PayPal,26.47
+2570,447,Credit Card,18.19
+2571,2021,Credit Card,46.86
+2572,1070,PayPal,25.92
+2573,2579,Credit Card,40.16
+2574,2430,Credit Card,32.73
+2575,1804,PayPal,17.31
+2576,2246,Meal Plan,14.25
+2577,1985,Debit Card,21.09
+2578,144,PayPal,44.40
+2579,1977,Meal Plan,14.74
+2580,1263,Meal Plan,24.80
+2581,555,Debit Card,32.59
+2582,1870,PayPal,35.11
+2583,2348,Debit Card,10.10
+2584,2575,Debit Card,14.54
+2585,2200,Meal Plan,15.64
+2586,2865,Debit Card,25.58
+2587,2835,Credit Card,26.79
+2588,2635,Debit Card,45.39
+2589,1006,Meal Plan,19.07
+2590,2002,Meal Plan,13.96
+2591,2662,Debit Card,32.49
+2592,1129,Debit Card,22.15
+2593,2839,Debit Card,17.18
+2594,1342,Meal Plan,46.16
+2595,260,Debit Card,6.13
+2596,1198,Credit Card,5.11
+2597,1640,Debit Card,39.14
+2598,185,Meal Plan,11.31
+2599,2232,PayPal,43.58
+2600,1113,Credit Card,19.55
+2601,2374,Meal Plan,32.98
+2602,605,Meal Plan,11.04
+2603,2747,Debit Card,6.49
+2604,1555,Meal Plan,6.04
+2605,2503,Credit Card,23.51
+2606,11,Credit Card,38.48
+2607,2981,Debit Card,41.08
+2608,572,Credit Card,14.52
+2609,865,PayPal,32.92
+2610,159,PayPal,24.90
+2611,2416,Debit Card,28.56
+2612,2793,Meal Plan,18.57
+2613,401,PayPal,39.52
+2614,701,Debit Card,48.17
+2615,1798,Meal Plan,37.55
+2616,1689,Debit Card,49.27
+2617,1525,Meal Plan,12.74
+2618,2982,Credit Card,40.45
+2619,2959,Meal Plan,22.10
+2620,1085,Meal Plan,47.72
+2621,2008,PayPal,21.26
+2622,2941,Credit Card,36.28
+2623,1368,Credit Card,42.33
+2624,1106,Credit Card,7.76
+2625,2649,PayPal,43.24
+2626,2431,Debit Card,44.36
+2627,1862,Debit Card,36.84
+2628,264,Debit Card,49.76
+2629,1256,Meal Plan,22.81
+2630,2812,Meal Plan,28.79
+2631,2039,PayPal,38.21
+2632,1436,Meal Plan,44.98
+2633,1635,Meal Plan,9.82
+2634,2882,PayPal,15.18
+2635,2559,Meal Plan,25.46
+2636,2609,Credit Card,44.89
+2637,1887,Credit Card,17.73
+2638,1828,Debit Card,46.09
+2639,1330,PayPal,46.97
+2640,691,PayPal,5.03
+2641,993,Credit Card,37.49
+2642,2222,PayPal,39.24
+2643,2732,Credit Card,42.37
+2644,2283,Credit Card,47.12
+2645,555,Credit Card,23.17
+2646,1674,Meal Plan,16.79
+2647,1157,Meal Plan,45.76
+2648,2946,Credit Card,37.57
+2649,2202,PayPal,8.40
+2650,2751,Meal Plan,9.88
+2651,95,Meal Plan,11.17
+2652,1007,PayPal,20.54
+2653,1942,Meal Plan,18.35
+2654,1527,PayPal,37.57
+2655,1868,PayPal,40.26
+2656,2005,PayPal,19.86
+2657,1767,Credit Card,22.66
+2658,2965,Meal Plan,24.61
+2659,1416,Meal Plan,23.29
+2660,581,Meal Plan,39.60
+2661,419,Debit Card,34.95
+2662,540,Credit Card,13.78
+2663,204,PayPal,34.63
+2664,719,PayPal,19.09
+2665,2763,Meal Plan,24.30
+2666,67,Meal Plan,13.84
+2667,494,Debit Card,8.90
+2668,814,Meal Plan,39.43
+2669,1562,Credit Card,33.69
+2670,2521,Debit Card,31.95
+2671,1590,Debit Card,40.34
+2672,1570,PayPal,42.95
+2673,1855,Credit Card,11.87
+2674,2575,Credit Card,39.19
+2675,433,Meal Plan,47.62
+2676,1568,Credit Card,42.03
+2677,256,Meal Plan,32.18
+2678,1735,Meal Plan,22.95
+2679,1913,Credit Card,14.43
+2680,186,Meal Plan,21.45
+2681,2571,PayPal,7.99
+2682,522,PayPal,49.22
+2683,509,Debit Card,33.24
+2684,1224,Meal Plan,38.69
+2685,678,PayPal,31.13
+2686,436,Meal Plan,37.27
+2687,1359,Meal Plan,10.46
+2688,677,Debit Card,45.51
+2689,1872,Credit Card,5.93
+2690,1262,Debit Card,45.42
+2691,2380,PayPal,37.33
+2692,2345,Credit Card,32.29
+2693,1743,Debit Card,44.67
+2694,2704,Debit Card,26.52
+2695,811,Meal Plan,36.82
+2696,1593,Debit Card,23.73
+2697,2125,Credit Card,20.94
+2698,2685,Meal Plan,35.68
+2699,27,Meal Plan,15.10
+2700,2682,Meal Plan,6.96
+2701,32,Meal Plan,46.77
+2702,2373,Meal Plan,12.04
+2703,2747,Debit Card,29.16
+2704,2039,Credit Card,13.95
+2705,2514,Credit Card,5.29
+2706,411,PayPal,10.25
+2707,116,PayPal,6.38
+2708,531,Meal Plan,46.57
+2709,174,PayPal,37.92
+2710,1584,Credit Card,49.86
+2711,2633,Debit Card,37.74
+2712,2333,Credit Card,9.81
+2713,1737,Meal Plan,9.94
+2714,2534,Credit Card,45.62
+2715,884,Meal Plan,35.29
+2716,1226,Credit Card,17.27
+2717,2470,Meal Plan,33.36
+2718,1395,PayPal,26.27
+2719,2092,Meal Plan,31.10
+2720,928,Meal Plan,45.03
+2721,2786,Credit Card,12.52
+2722,978,Debit Card,37.82
+2723,360,Debit Card,8.91
+2724,2704,Debit Card,28.45
+2725,1991,Credit Card,24.66
+2726,2603,Credit Card,48.11
+2727,1537,Meal Plan,6.57
+2728,1734,Debit Card,31.51
+2729,39,PayPal,36.33
+2730,566,Credit Card,7.42
+2731,2834,Meal Plan,38.36
+2732,1165,PayPal,12.66
+2733,1442,PayPal,15.87
+2734,2337,Credit Card,22.50
+2735,608,Debit Card,9.76
+2736,594,Debit Card,43.82
+2737,2896,PayPal,29.99
+2738,454,PayPal,8.54
+2739,951,Debit Card,30.63
+2740,311,Credit Card,13.24
+2741,1989,Credit Card,18.85
+2742,2516,Meal Plan,26.94
+2743,2292,Credit Card,33.63
+2744,252,Debit Card,19.54
+2745,74,Credit Card,44.69
+2746,1848,PayPal,31.84
+2747,880,Debit Card,21.71
+2748,352,Meal Plan,32.35
+2749,1976,Debit Card,19.69
+2750,1878,Credit Card,49.68
+2751,1160,PayPal,10.79
+2752,392,PayPal,45.02
+2753,441,Credit Card,47.86
+2754,52,Credit Card,27.80
+2755,1794,Meal Plan,49.35
+2756,2698,Debit Card,29.93
+2757,1827,PayPal,12.84
+2758,733,Debit Card,23.71
+2759,2925,Meal Plan,44.05
+2760,792,Credit Card,17.24
+2761,1789,Meal Plan,31.95
+2762,1629,PayPal,23.74
+2763,1353,PayPal,47.21
+2764,903,Debit Card,23.03
+2765,1244,PayPal,30.68
+2766,1824,PayPal,39.18
+2767,1059,PayPal,20.76
+2768,439,Credit Card,29.42
+2769,302,Credit Card,12.69
+2770,1982,Credit Card,33.82
+2771,1180,Credit Card,13.70
+2772,2113,Meal Plan,37.98
+2773,351,Meal Plan,20.36
+2774,2388,Credit Card,23.04
+2775,846,Credit Card,45.22
+2776,461,Meal Plan,18.21
+2777,599,Meal Plan,28.40
+2778,2979,Credit Card,32.01
+2779,2513,Meal Plan,32.61
+2780,2880,Credit Card,39.40
+2781,2100,Credit Card,34.57
+2782,1269,Meal Plan,14.73
+2783,472,Debit Card,40.25
+2784,1791,PayPal,19.19
+2785,810,Meal Plan,5.82
+2786,2887,Meal Plan,35.51
+2787,868,Meal Plan,27.84
+2788,711,Credit Card,26.93
+2789,327,Meal Plan,13.91
+2790,215,Debit Card,17.40
+2791,2048,Credit Card,18.72
+2792,380,Debit Card,30.84
+2793,2985,PayPal,14.22
+2794,2351,Meal Plan,16.55
+2795,21,Credit Card,38.17
+2796,2623,PayPal,39.64
+2797,2470,PayPal,48.74
+2798,592,Credit Card,37.98
+2799,2718,Debit Card,34.18
+2800,2741,Credit Card,10.88
+2801,881,Debit Card,29.03
+2802,413,Debit Card,42.06
+2803,2483,Credit Card,11.16
+2804,574,Meal Plan,37.65
+2805,1468,PayPal,38.90
+2806,2464,Debit Card,10.19
+2807,1033,PayPal,44.39
+2808,1687,Meal Plan,44.26
+2809,1030,Meal Plan,5.35
+2810,436,Meal Plan,7.90
+2811,1026,Credit Card,45.75
+2812,2279,Credit Card,12.56
+2813,2416,Credit Card,19.20
+2814,2393,Meal Plan,29.04
+2815,2656,Credit Card,14.24
+2816,94,Debit Card,29.50
+2817,2914,PayPal,37.56
+2818,904,Credit Card,20.98
+2819,1707,Meal Plan,29.75
+2820,2606,Debit Card,21.88
+2821,604,Meal Plan,47.95
+2822,2464,Debit Card,27.73
+2823,1113,Meal Plan,7.13
+2824,2234,PayPal,43.07
+2825,2384,Meal Plan,40.53
+2826,141,Debit Card,17.28
+2827,1387,Credit Card,34.68
+2828,1399,PayPal,40.11
+2829,2448,Credit Card,46.05
+2830,1869,Meal Plan,39.76
+2831,1245,Debit Card,30.71
+2832,259,PayPal,24.94
+2833,1564,Debit Card,31.22
+2834,1197,Credit Card,5.05
+2835,1194,Meal Plan,16.52
+2836,625,Credit Card,6.99
+2837,1871,Credit Card,37.07
+2838,2121,Meal Plan,23.66
+2839,1274,Credit Card,9.89
+2840,1742,Credit Card,42.15
+2841,2515,Meal Plan,36.67
+2842,1601,Debit Card,40.92
+2843,2819,Meal Plan,48.07
+2844,1617,Credit Card,14.83
+2845,2885,Credit Card,36.87
+2846,2149,Credit Card,28.08
+2847,2315,Meal Plan,25.87
+2848,1435,Credit Card,43.65
+2849,301,Credit Card,36.95
+2850,2084,PayPal,32.04
+2851,110,PayPal,37.84
+2852,490,Credit Card,20.73
+2853,468,Credit Card,36.45
+2854,2114,Meal Plan,45.34
+2855,1110,Credit Card,18.55
+2856,2753,Credit Card,9.52
+2857,1490,Debit Card,45.28
+2858,1072,Debit Card,37.57
+2859,1986,Credit Card,9.22
+2860,578,Meal Plan,37.52
+2861,1760,Credit Card,7.72
+2862,2870,Credit Card,5.06
+2863,561,PayPal,33.27
+2864,782,Credit Card,33.90
+2865,2381,PayPal,29.42
+2866,601,Credit Card,35.47
+2867,697,Meal Plan,20.44
+2868,319,Debit Card,30.24
+2869,566,Debit Card,12.99
+2870,607,Debit Card,15.04
+2871,1780,Meal Plan,20.89
+2872,2166,PayPal,11.36
+2873,862,Debit Card,49.97
+2874,2099,PayPal,45.59
+2875,2951,Meal Plan,34.77
+2876,2476,Credit Card,26.68
+2877,1799,PayPal,46.00
+2878,2130,Debit Card,15.09
+2879,1490,Debit Card,13.27
+2880,821,Credit Card,17.31
+2881,1907,PayPal,27.32
+2882,1059,PayPal,12.32
+2883,2959,Credit Card,49.92
+2884,621,Debit Card,12.65
+2885,700,Meal Plan,25.93
+2886,1740,PayPal,41.44
+2887,2545,Debit Card,18.12
+2888,2025,PayPal,20.09
+2889,1268,Meal Plan,32.41
+2890,888,Credit Card,31.22
+2891,1332,Meal Plan,20.04
+2892,2137,Credit Card,8.64
+2893,607,Debit Card,9.32
+2894,2088,Meal Plan,5.23
+2895,692,PayPal,14.19
+2896,589,PayPal,28.62
+2897,930,Meal Plan,26.63
+2898,2259,Meal Plan,25.56
+2899,219,PayPal,7.03
+2900,1016,Debit Card,37.60
+2901,1500,PayPal,16.28
+2902,2666,Debit Card,43.02
+2903,2813,Debit Card,22.23
+2904,1453,Credit Card,20.71
+2905,589,PayPal,28.72
+2906,188,PayPal,47.58
+2907,2417,Debit Card,42.32
+2908,1589,PayPal,35.14
+2909,290,Meal Plan,27.20
+2910,1264,Meal Plan,11.12
+2911,175,PayPal,47.07
+2912,451,PayPal,21.88
+2913,1615,Debit Card,29.19
+2914,776,PayPal,44.02
+2915,2045,Credit Card,32.83
+2916,546,Meal Plan,45.16
+2917,997,Debit Card,35.45
+2918,1196,Meal Plan,46.07
+2919,1856,Credit Card,40.85
+2920,563,Credit Card,39.28
+2921,30,Credit Card,43.80
+2922,1951,Meal Plan,47.95
+2923,550,Meal Plan,31.00
+2924,215,Debit Card,42.93
+2925,1612,Meal Plan,39.07
+2926,2401,Meal Plan,24.75
+2927,1663,PayPal,12.16
+2928,2992,PayPal,24.70
+2929,2564,Debit Card,14.81
+2930,2287,Debit Card,37.58
+2931,1076,Debit Card,24.45
+2932,2200,Debit Card,39.37
+2933,535,Meal Plan,47.86
+2934,1537,Credit Card,41.28
+2935,1833,Credit Card,17.39
+2936,2678,Credit Card,13.33
+2937,2966,Meal Plan,48.01
+2938,2520,Meal Plan,31.29
+2939,2563,PayPal,19.44
+2940,2804,Meal Plan,23.21
+2941,2144,PayPal,23.26
+2942,2480,PayPal,28.40
+2943,421,Credit Card,41.06
+2944,744,Credit Card,43.03
+2945,782,Credit Card,13.91
+2946,604,Meal Plan,12.98
+2947,2791,Credit Card,6.93
+2948,1241,Meal Plan,14.44
+2949,814,Meal Plan,9.42
+2950,633,Debit Card,42.80
+2951,2827,Credit Card,20.92
+2952,1223,Credit Card,39.14
+2953,2965,Debit Card,44.79
+2954,2543,Debit Card,29.86
+2955,2064,Debit Card,28.24
+2956,427,Meal Plan,20.33
+2957,1033,PayPal,19.51
+2958,801,Debit Card,14.83
+2959,2685,Meal Plan,22.08
+2960,2438,Meal Plan,8.34
+2961,459,Meal Plan,43.09
+2962,108,Credit Card,34.26
+2963,2752,Debit Card,21.22
+2964,2450,Meal Plan,14.86
+2965,83,Debit Card,41.27
+2966,2157,Meal Plan,46.04
+2967,2375,Debit Card,5.52
+2968,2292,PayPal,23.16
+2969,468,Meal Plan,41.85
+2970,572,Credit Card,32.45
+2971,674,PayPal,39.93
+2972,1187,PayPal,22.17
+2973,1836,Credit Card,39.15
+2974,2887,Meal Plan,14.04
+2975,2092,Debit Card,45.13
+2976,33,Debit Card,43.14
+2977,2913,Debit Card,38.54
+2978,747,Meal Plan,30.16
+2979,1226,Meal Plan,16.80
+2980,332,Meal Plan,29.57
+2981,2766,Meal Plan,23.65
+2982,1673,Debit Card,8.98
+2983,1636,PayPal,29.75
+2984,2857,Credit Card,36.60
+2985,168,Credit Card,12.69
+2986,2577,Meal Plan,46.69
+2987,952,Credit Card,25.67
+2988,1446,PayPal,28.68
+2989,1120,PayPal,42.89
+2990,2172,Debit Card,5.19
+2991,1316,Meal Plan,17.63
+2992,1078,Credit Card,22.93
+2993,2716,PayPal,43.53
+2994,1897,PayPal,20.19
+2995,2879,Meal Plan,33.96
+2996,1783,Meal Plan,14.69
+2997,1352,PayPal,46.85
+2998,1266,Debit Card,5.38
+2999,2899,Meal Plan,27.50
+3000,98,Meal Plan,34.20
