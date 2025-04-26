@@ -227,4 +227,5 @@ def submit():
             conn.close()
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True)port = int(os.environ.get('DB_PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
